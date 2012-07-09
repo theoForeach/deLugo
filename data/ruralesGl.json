@@ -1,0 +1,3770 @@
+[
+{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR86"
+,"LOCALIDAD":"PALAS DE REI"
+,"NOMBRE":"A PARADA DAS BESTAS"
+,"id_zona":5
+,"TELEFONO":"982183614"
+,"CP":"27207"
+,"id_categor":3
+,"x":588073.974
+,"y":4742471
+,"CARACTERISTICAS":"Actividades de artesanía , Adaptado a minusválidos , Agricultura ecolóxica , Aluguer de bicicletas , Aparcadoiro , Berces , Comedor , Fálase inglés , Lavadora dispoñible-Lavandaría , Prohibido fumar , Tarefas agropecuarias , Televisión común , Xardín , Horta."
+,"WEB":"www.aparadadasbestas.com"
+,"id":70
+,"EMAIL":"info@aparadadasbestas.com"
+,"IMAGEN":"TR86.JPG"
+,"CAPACIDAD":"7 cuartos"
+,"OBJECTID":1
+,"DIRECCION":"Pidre , Pidre (Santa María)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.92242393299995,42.8297393870001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR85"
+,"LOCALIDAD":"PALAS DE REI"
+,"NOMBRE":"A PARADA DAS BESTAS II"
+,"id_zona":5
+,"TELEFONO":"982183614"
+,"CP":"27207"
+,"id_categor":3
+,"x":588075.064
+,"y":4742475.46
+,"CARACTERISTICAS":"Aluguer de bicicletas , Aparcadoiro , Bar-Cafetería , Berces , Comedor , Dereito a cociña , Piscina , Televisión común , Xardín , Horta."
+,"WEB":"www.aparadasbestas.com"
+,"id":71
+,"EMAIL":"info@aparadadasbestas.com"
+,"IMAGEN":"TR85.JPG"
+,"CAPACIDAD":"4 cuartos"
+,"OBJECTID":2
+,"DIRECCION":"Pidre , Pidre (Santa María)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.92240990099992,42.829779418]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR87"
+,"LOCALIDAD":"PALAS DE REI"
+,"NOMBRE":"CASA BLANCO"
+,"id_zona":5
+,"TELEFONO":"982163294 / 669046927"
+,"CP":"27203"
+,"id_categor":3
+,"x":587618.882
+,"y":4746513.306
+,"CARACTERISTICAS":"Admite tarxetas de crédito , Aparcadoiro , Berces , Comedor , Fálase inglés , Salón de reunións , Televisión común , Xardín , Horta."
+,"WEB":"www.casablancoterraulloa.com"
+,"id":72
+,"EMAIL":"info@casablancoterraulloa.com"
+,"IMAGEN":"TR87.JPG"
+,"CAPACIDAD":"5 cuartos"
+,"OBJECTID":3
+,"DIRECCION":"San Breixo , San Breixo (Santa María)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Consultar"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.92736135799993,42.8661875620001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR88"
+,"LOCALIDAD":"PALAS DE REI"
+,"NOMBRE":"CASA DA PONTE"
+,"id_zona":5
+,"TELEFONO":"689552329 / 982183077"
+,"CP":"27200"
+,"id_categor":3
+,"x":596525.464
+,"y":4755558.133
+,"CARACTERISTICAS":"Admite cans (consultar) , Aparcadoiro , Comedor , Lavadora dispoñible-Lavandaría , Televisión común , Xardín , Horta."
+,"WEB":" "
+,"id":73
+,"EMAIL":" "
+,"IMAGEN":"TR88.JPG"
+,"CAPACIDAD":"5 cuartos"
+,"OBJECTID":4
+,"DIRECCION":"A Ponte Ferreira , Ferreir de Negral (San Martiño)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.81679114399992,42.9465477000001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR89"
+,"LOCALIDAD":"PALAS DE REI"
+,"NOMBRE":"CASA RECTORAL DE LESTEDO"
+,"id_zona":5
+,"TELEFONO":"982153435 / 618280786"
+,"CP":"27216"
+,"id_categor":3
+,"x":596751.286
+,"y":4747404.899
+,"CARACTERISTICAS":"Adaptado a minusválidos , Admite tarxetas de crédito , Aparcadoiro , Berces , Comedor , Fálase francés , Fálase inglés , Lavadora dispoñible-Lavandaría , Prohibido fumar , Televisión común , Xardín , Horta."
+,"WEB":"www.casa-rectoral-lestedo.com"
+,"id":74
+,"EMAIL":"csarectorallestedo@yahoo.es"
+,"IMAGEN":"TR89.JPG"
+,"CAPACIDAD":"7 cuartos"
+,"OBJECTID":5
+,"DIRECCION":"Lestedo , Lestedo (santiago)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.81543031799993,42.8731130250001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR90"
+,"LOCALIDAD":"PALAS DE REI"
+,"NOMBRE":"ECOAGROTURISMO ARQUEIXAL"
+,"id_zona":5
+,"TELEFONO":"982380251"
+,"CP":"27207"
+,"id_categor":3
+,"x":590952.983
+,"y":4744301.839
+,"CARACTERISTICAS":"Comedor , Dereito a cociña , Salón , Tarefas agropecuarias , Xardín , Horta."
+,"WEB":"www.arqueixal.com"
+,"id":75
+,"EMAIL":"info@arqueixal.es"
+,"IMAGEN":"TR90.JPG"
+,"CAPACIDAD":"4 cuartos"
+,"OBJECTID":6
+,"DIRECCION":"Albá , Albá (Santiago)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non Compartido"
+,"APERTURA":"Consultar"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.88691007099993,42.8458867300001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR84"
+,"LOCALIDAD":"PALAS DE REI"
+,"NOMBRE":"PAZO MARIÑAO"
+,"id_zona":5
+,"TELEFONO":"982380302"
+,"CP":"27204"
+,"id_categor":3
+,"x":588952.779
+,"y":4748348.386
+,"CARACTERISTICAS":"Adaptado a minusválidos , Admite tarxetas de crédito , Aparcadoiro , Bar-Cafetería , Berces , Comedor , Internet-Wifi , Parque infantil , Prohibido fumar , Tarefas agropecuarias , Televisión común , Xardín , Horta."
+,"WEB":" "
+,"id":76
+,"EMAIL":" "
+,"IMAGEN":"TR84.JPG"
+,"CAPACIDAD":"7 cuartos"
+,"OBJECTID":7
+,"DIRECCION":"San Pedro , Meixide (San Pedro)"
+,"CATEGORIA":"Grupo-A (Pazo) - Compartido"
+,"APERTURA":"Consultar"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.91074395299995,42.882555858]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR91"
+,"LOCALIDAD":"PANTÓN"
+,"NOMBRE":"RECTORAL DE CASTILLÓN"
+,"id_zona":5
+,"TELEFONO":"982455415 / 678643575"
+,"CP":"27438"
+,"id_categor":3
+,"x":611779.956
+,"y":4710200.113
+,"CARACTERISTICAS":"Aparcadoiro , Berces , Comedor , Fálase francés , Fálase inglés , Internet , Wifi , Lavadora dispoñible-Lavandaría , Restaurante , Salón , Salón de reunións , Tarefas agropecuarias , Televisión  común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":"www.rectoraldecastillon.com"
+,"id":77
+,"EMAIL":"rectoraldecastillon@rectoraldecastillon.com"
+,"IMAGEN":"TR91.JPG"
+,"CAPACIDAD":"8 cuartos"
+,"OBJECTID":8
+,"DIRECCION":"Castillón , Castillón (Santiago)"
+,"CATEGORIA":"Grupo-A (Casa Reitoral) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.63881381099992,42.5361070440001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR94"
+,"LOCALIDAD":"PANTÓN"
+,"NOMBRE":"CASA DULCINEA"
+,"id_zona":5
+,"TELEFONO":"982411240 / 606114063"
+,"CP":"27437"
+,"id_categor":3
+,"x":612474.774
+,"y":4703041.29
+,"CARACTERISTICAS":"Actividades de artesanía , Admite cans (consultar) , Aluguer de bicicletas , Aparcadoiro , Berces , Comedor , Dereito a cociña , Fálase francés , Fálase inglés , Grella , Lavadora dispoñible-Lavandaría , Televisión  común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":"www.casadulcinea.com"
+,"id":78
+,"EMAIL":"adegatur@yahoo.es"
+,"IMAGEN":"TR94.JPG"
+,"CAPACIDAD":"6 cuartos"
+,"OBJECTID":9
+,"DIRECCION":"A Panfolía, 3 ,  Cangas (Santiago)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.63176150299995,42.4715532210001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR93"
+,"LOCALIDAD":"PANTÓN"
+,"NOMBRE":"CASA DOS MUROS"
+,"id_zona":5
+,"TELEFONO":"982456118 / 610456046"
+,"CP":"27430"
+,"id_categor":3
+,"x":615222.778
+,"y":4709346.284
+,"CARACTERISTICAS":"Adaptado a minusválidos , Admite cans ( consultar) , Admite tarxetas de crédito , Aluguer de bicicletas , Aparcadoiro , Bar-Cafetería , Berces , Comedor , Dereito a cociña , Fálase francés , Fálase inglés , Fálase italiano , Internet , Wifi , Parque infantil , Piscina , Salón de reunións , Televisión común , Televisor nso cuartos , Xardín , Horta."
+,"WEB":"www.casadosmuros.com"
+,"id":79
+,"EMAIL":"info@casadosmuros.com"
+,"IMAGEN":"TR93.JPG"
+,"CAPACIDAD":"10 cuartos"
+,"OBJECTID":10
+,"DIRECCION":"O Outeiro , Pantón (San Martiño)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.59707341199993,42.5279143160001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR92"
+,"LOCALIDAD":"PANTÓN"
+,"NOMBRE":"CASA DA VILA"
+,"id_zona":5
+,"TELEFONO":"982456081 / 676335565"
+,"CP":"27430"
+,"id_categor":3
+,"x":612586.092
+,"y":4710704.303
+,"CARACTERISTICAS":"Adaptado a minusválidos , Admite cans (consultar) , Comedor , Lavadora dispoñible-Lavandaría , Prohibido fumar , Tarefas agropecuarias , Televisión  común , Xardín , Horta."
+,"WEB":"www.casaruraldavila.com"
+,"id":80
+,"EMAIL":" "
+,"IMAGEN":"TR92.JPG"
+,"CAPACIDAD":"6 cuartos"
+,"OBJECTID":11
+,"DIRECCION":"A Vila , San Vicente de Castillón (San Vicente)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.62890059199992,42.5405293740001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR96"
+,"LOCALIDAD":"PARADELA"
+,"NOMBRE":"O FOILEBAR"
+,"id_zona":5
+,"TELEFONO":"982195603 / 627950105"
+,"CP":"27611"
+,"id_categor":3
+,"x":616480.447
+,"y":4732283.727
+,"CARACTERISTICAS":"Adaptado a minusválidos , Admite cans (consultar) , Agricultura ecolóxica , Aluguer de bicicletas , Aparcadoiro , Comedor , Fálase francés ,Fálase inglés ,  Fálase italiano , Salón , Salón de reunións , Tarefas agropecuarias , Televisión común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":"ofoilebar.tripod.com"
+,"id":81
+,"EMAIL":"ofoilebar@ozu.es"
+,"IMAGEN":"TR96.JPG"
+,"CAPACIDAD":"6 cuartos"
+,"OBJECTID":12
+,"DIRECCION":"Foilebar , Castro de Rei de Lemos (Santa María)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.57706780399991,42.7342293500001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR95"
+,"LOCALIDAD":"PARADELA"
+,"NOMBRE":"CASA CIMADEVILA"
+,"id_zona":5
+,"TELEFONO":"982541216"
+,"CP":" 27611"
+,"id_categor":3
+,"x":619440.97
+,"y":4735712.069
+,"CARACTERISTICAS":"Aparcadoiro , Comedor , Tarefas agropecuarias , Televisión común , Xardín , Horta."
+,"WEB":" "
+,"id":82
+,"EMAIL":" "
+,"IMAGEN":"TR95.JPG"
+,"CAPACIDAD":"6 cuartos"
+,"OBJECTID":13
+,"DIRECCION":"Cimadevila , Vilaragunte (Santa María)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Consultar"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.54018893299991,42.7646382290001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR65"
+,"LOCALIDAD":"MONDOÑEDO"
+,"NOMBRE":"A CASA DE MAÑAS"
+,"id_zona":1
+,"TELEFONO":"619916341"
+,"CP":"27752"
+,"id_categor":3
+,"x":634982.316
+,"y":4812451.13
+,"CARACTERISTICAS":"Actividades de artesanía , Adaptado a minusválidos , Admite tarxetas de crédito , Aluguer de bicicletas , Aparcadoiro , Berces , Cabalos , Fálase inglés , Prohibido fumar , Quads , Televisión común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":"www.acasademanas.com"
+,"id":1
+,"EMAIL":"Info@acasademanas.com"
+,"IMAGEN":"TR65.JPG"
+,"CAPACIDAD":"6 cuartos"
+,"OBJECTID":14
+,"DIRECCION":"A Calvela, 1 , Vilamor (Santa María)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.33165500699994,43.4527989140001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR66"
+,"LOCALIDAD":"MONDOÑEDO"
+,"NOMBRE":"FINCA EL REMANSO"
+,"id_zona":1
+,"TELEFONO":"639072769"
+,"CP":"27747"
+,"id_categor":3
+,"x":632288.584
+,"y":4813312.204
+,"CARACTERISTICAS":"Admite cans (consultar) , Admite tarxetas de crédito , Agricultura ecolóxica , Aluguer de bicicletas , Aparcadoiro , Berces , Comedor, Lavadora dispoñible-Lavandaría , Prohibido fumar , Televisión común , Xardín , Horta"
+,"WEB":"www.fincaelremanso.com"
+,"id":2
+,"EMAIL":"elremansoes@yahoo.es"
+,"IMAGEN":"TR66.JPG"
+,"CAPACIDAD":"5 cuartos"
+,"OBJECTID":15
+,"DIRECCION":"A Ferrería, 11 , Viloalle (Santa María)"
+,"CATEGORIA":"Grupo-C (Casa de Labranza) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.36472644399993,43.461030012]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR72"
+,"LOCALIDAD":"MURAS"
+,"NOMBRE":"CASA DO VIVEIRÓ"
+,"id_zona":1
+,"TELEFONO":"699084656 / 699954211"
+,"CP":" 27837"
+,"id_categor":3
+,"x":611696.374
+,"y":4814164.733
+,"CARACTERISTICAS":"Admite cans (consultar) , Admite tarxetas de crédito , Agricultura ecolóxica , Aparcadoiro , Berces , Comedor , Grella , Televisión común , Xardín , Horta."
+,"WEB":"www.pazosdoviveiro.com"
+,"id":3
+,"EMAIL":" "
+,"IMAGEN":"TR72.JPG"
+,"CAPACIDAD":"9 cuartos"
+,"OBJECTID":16
+,"DIRECCION":"O Porromeo , O Viveiró (Santa María)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.61902108999993,43.4720609340001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR70"
+,"LOCALIDAD":"MONTERROSO"
+,"NOMBRE":"CASA ROÁN"
+,"id_zona":5
+,"TELEFONO":"982194989 / 618753210"
+,"CP":"27215"
+,"id_categor":3
+,"x":596751.322
+,"y":4744655.971
+,"CARACTERISTICAS":"Adaptado a minusválidos , Admite cans (consultar) , Admite tarxetas de crédito , Aluguer de bicicletas , Aparcadoiro , Berces , Comedor , Grella , Internet-Wifi , Lavadora dispoñible-Lavandaría , Parque Infantil , Prohibido fumar , Tarefas agropecuarias , Televisión común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":"www.casaroan.com"
+,"id":4
+,"EMAIL":"casaruralroan@gmail.com"
+,"IMAGEN":"TR70.JPG"
+,"CAPACIDAD":"9 cuartos"
+,"OBJECTID":17
+,"DIRECCION":"Sestelo, 4 , Lodoso (San Xoán)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.81590297699995,42.848363368]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR68"
+,"LOCALIDAD":"MONTERROSO"
+,"NOMBRE":"CAMPOS DE VILANCE"
+,"id_zona":5
+,"TELEFONO":"652353719 / 695189360"
+,"CP":"27569"
+,"id_categor":3
+,"x":596499.791
+,"y":4733558.271
+,"CARACTERISTICAS":"Aparcadoiro , Berces , Comedor , Dereito a cociña , Grella , Lavadora dispoñible-Lavandaría , Prohibido fumar , Televisión común , Televisor nos cuartos , Xardín , Horta"
+,"WEB":"www.camposdevilance.com"
+,"id":5
+,"EMAIL":"irenemi@saludalia.com"
+,"IMAGEN":"TR68.JPG"
+,"CAPACIDAD":"4 cuartos"
+,"OBJECTID":18
+,"DIRECCION":"Vilance, 1 , Valboa (San Salvador)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non Compartido"
+,"APERTURA":"Consultar"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.82087964999994,42.7484770710001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR69"
+,"LOCALIDAD":"MONTERROSO"
+,"NOMBRE":"CASA DO CAMPO"
+,"id_zona":5
+,"TELEFONO":"982371731 / 626747272"
+,"CP":"27650"
+,"id_categor":3
+,"x":598639.709
+,"y":4739751.972
+,"CARACTERISTICAS":"Adaptado a minusválidos , Admite tarxetas de crédito , Aparcadoiro , Bar-Cafetería , Berces , Comedor , Grella , Restaurante , Salón de reunións , Tarefas agropecuarias , Televisión común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":"www.casadocampo.agatur.org"
+,"id":6
+,"EMAIL":" "
+,"IMAGEN":"TR69.JPG"
+,"CAPACIDAD":"9 cuartos"
+,"OBJECTID":19
+,"DIRECCION":"San Miguel  ,  Penas (San Miguel)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.79365573699994,42.8039695630001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR67"
+,"LOCALIDAD":"MONTERROSO"
+,"NOMBRE":"PAZO DE LUDEIRO"
+,"id_zona":5
+,"TELEFONO":"982378363"
+,"CP":"27568"
+,"id_categor":3
+,"x":598373.317
+,"y":4740302.196
+,"CARACTERISTICAS":"Adaptado a minusválidos , Admite cans (consultar) , Admite tarxetas de crédito , Agricultura ecolóxica , Aluguer de bicicletas , Aparcadoiro , Bar-Cafetería , Berces , Comedor , Fálase francés , Fálase inglés , Fálase italiano , Salón de reunións , Tarefas agropecuarias , Televisor nos cuartos , Xardín , Horta."
+,"WEB":"www.pazodeludeiro.com"
+,"id":7
+,"EMAIL":"pazodeludeiro@hotmail.com"
+,"IMAGEN":"TR67.JPG"
+,"CAPACIDAD":"8 cuartos"
+,"OBJECTID":20
+,"DIRECCION":"Ludeiro , Penas (San Miguel)"
+,"CATEGORIA":"Grupo-A (Pazo) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.79681694099992,42.8089577260001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR71"
+,"LOCALIDAD":"MONTERROSO"
+,"NOMBRE":"REINA URRACA"
+,"id_zona":5
+,"TELEFONO":"982377690 / 609850087"
+,"CP":"27560"
+,"id_categor":3
+,"x":595304.959
+,"y":4738141.648
+,"CARACTERISTICAS":"Admite cans (consultar) , Admite tarxetas de crédito , Agricultura ecolóxica , Aluguer de bicicletas , Aparcadoiro , Berces , Comedor , Fálase inglés , Parque Infantil , Tarefas Agropecuarias , Televisión común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":" "
+,"id":8
+,"EMAIL":" "
+,"IMAGEN":"TR71.JPG"
+,"CAPACIDAD":"4 cuartos"
+,"OBJECTID":21
+,"DIRECCION":"Avda. General Salgado, 51 , Monterroso , Esporiz (San Miguel)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.83470280999995,42.7898932850001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR134"
+,"LOCALIDAD":"TABOADA"
+,"NOMBRE":"CASA DO ROMUALDO\r\n\r\n\r\n\r\nCASA DE ROMUALDO"
+,"id_zona":5
+,"TELEFONO":"982455010 / 650226646"
+,"CP":"27596"
+,"id_categor":3
+,"x":601176.187
+,"y":4725735.76
+,"CARACTERISTICAS":"Admite cans (consultar) , Admite tarxetas de crédito , Agricultura ecolóxica , Aluguer de bicicletas , Aparcadoiro, Berces , Comedor , Fálase inglés , Grella , Internet , Wifi , Lavadora dispoñible-Lavandaría , Prohibido fumar , Tarefas Agropecuarias, Xardín , Horta."
+,"WEB":"www.casaromualdo.com"
+,"id":9
+,"EMAIL":"info@casaromualdo.com"
+,"IMAGEN":"TR134.JPG"
+,"CAPACIDAD":"5 cuartos"
+,"OBJECTID":22
+,"DIRECCION":"Vilar, 6 , Vilela (San Miguel)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.76514918999993,42.6774450300001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR75"
+,"LOCALIDAD":"NEGUEIRA DE MUÑIZ"
+,"NOMBRE":"CASA VIZCAÍN"
+,"id_zona":2
+,"TELEFONO":"982353309"
+,"CP":"27113"
+,"id_categor":3
+,"x":671327.22
+,"y":4777879.579
+,"CARACTERISTICAS":"Adaptado a minusválidos , Admite cans (consultar) , Aparcadoiro , Bar-Cafetería , Comedor , Lavadora dispoñible-Lavandaría , Tarefas agropecuarias , Televisión común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":" "
+,"id":10
+,"EMAIL":" "
+,"IMAGEN":"TR75.JPG"
+,"CAPACIDAD":"9 cuartos"
+,"OBJECTID":23
+,"DIRECCION":"Negueira , Negueira"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-6.89347977499995,43.13427282]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR73"
+,"LOCALIDAD":"NAVIA DE SUARNA"
+,"NOMBRE":"CASA DE AMABLE"
+,"id_zona":3
+,"TELEFONO":"982161207 / 660720121"
+,"CP":"27651"
+,"id_categor":3
+,"x":658082.761
+,"y":4761693.311
+,"CARACTERISTICAS":"(Distintivo Lugo2) Agricultura ecolóxica , Dereito a cociña , Fálase alemán , Tarefas agropecuarias , Televisor nos cuartos , Xardín , Horta."
+,"WEB":" "
+,"id":11
+,"EMAIL":" "
+,"IMAGEN":"TR73.JPG"
+,"CAPACIDAD":"2 cuartos"
+,"OBJECTID":24
+,"DIRECCION":"Cabanela , Cabanela (Santa María)"
+,"CATEGORIA":"Grupo-C (Casa de Labranza) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.06082742799993,42.9914811260001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR135"
+,"LOCALIDAD":"TRABADA"
+,"NOMBRE":"PAZO DE TERRAFEITA"
+,"id_zona":2
+,"TELEFONO":"982135077"
+,"CP":" 27765"
+,"id_categor":3
+,"x":645808.519
+,"y":4812326.738
+,"CARACTERISTICAS":"Adaptado a minusválidos , Admite tarxetas de crédito , Aluguer de bicicletas , Aparcadoiro , Comedor , Lavadora dispoñible-Lavandaría , Piscina , Salón , Salón de reunións, Televisor nos cuartos , Xardín , Horta."
+,"WEB":"www.terrafeita.com"
+,"id":12
+,"EMAIL":"info@terrafeita.com"
+,"IMAGEN":"TR135.JPG"
+,"CAPACIDAD":"10 cuartos"
+,"OBJECTID":25
+,"DIRECCION":"O Pacio , Trabada (Santa María)"
+,"CATEGORIA":"Grupo-A (Pazo) - Compartido"
+,"APERTURA":"Consultar"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.19794196899994,43.4496492740001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR136"
+,"LOCALIDAD":"TRABADA"
+,"NOMBRE":"FINCA O BIZARRO"
+,"id_zona":2
+,"TELEFONO":"656355144 / 982135057"
+,"CP":"27765"
+,"id_categor":3
+,"x":648291.927
+,"y":4811444.608
+,"CARACTERISTICAS":"(Distintivo Lugo2) Adaptado a minusválidos , Admite tarxetas de créditos , Aluguer de bicicletas , Aparcadoiro , Comedor , Prohibido fumar, Salón de reunións , Televisión  común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":"www.fincaobizarro.com"
+,"id":13
+,"EMAIL":"info@fincaobizarro.com"
+,"IMAGEN":"TR136.JPG"
+,"CAPACIDAD":"9 cuartos"
+,"OBJECTID":26
+,"DIRECCION":"O Bizarro , Rego Rubio , Trabada (Santa María)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.16750439799995,43.4412225920001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR138"
+,"LOCALIDAD":"TRIACASTELA"
+,"NOMBRE":"CASA PACIOS"
+,"id_zona":5
+,"TELEFONO":"982548158 / 608080556"
+,"CP":"27632"
+,"id_categor":3
+,"x":645960.546
+,"y":4736009.885
+,"CARACTERISTICAS":"Admite tarxetas de crédito , Aparcadoiro ,  Comedor , Tarefas agropecuarios , Televisión común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":" "
+,"id":14
+,"EMAIL":"casapacios@hotmail.com"
+,"IMAGEN":"TR138.JPG"
+,"CAPACIDAD":"8 cuartos"
+,"OBJECTID":27
+,"DIRECCION":"Vilavella , Vilavella (Santa María)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.21612825199992,42.7627297180001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR137"
+,"LOCALIDAD":"TRIACASTELA"
+,"NOMBRE":"CASA DA VEIGA"
+,"id_zona":5
+,"TELEFONO":"982548156"
+,"CP":"27632"
+,"id_categor":3
+,"x":646334.946
+,"y":4735610.626
+,"CARACTERISTICAS":"Comedor , Televisión común , Xardín , Horta."
+,"WEB":" "
+,"id":15
+,"EMAIL":" "
+,"IMAGEN":"TR137.JPG"
+,"CAPACIDAD":"9 cuartos"
+,"OBJECTID":28
+,"DIRECCION":"Vilavella , Vilavella (Santa María)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.21165804499992,42.759064605]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR141"
+,"LOCALIDAD":"TRIACASTELA"
+,"NOMBRE":"CASA QUIROGA"
+,"id_zona":5
+,"TELEFONO":"982187299"
+,"CP":"27632"
+,"id_categor":3
+,"x":649116.86
+,"y":4733899.177
+,"CARACTERISTICAS":"Aparcadoiro , Bar-Cafeteria , Comedor , Prohibido fumar , Tarefas agropecuarias , Televisión común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":" "
+,"id":16
+,"EMAIL":" "
+,"IMAGEN":"TR141.JPG"
+,"CAPACIDAD":"6 cuartos"
+,"OBJECTID":29
+,"DIRECCION":"O Biduedo , Lamas de Biduedo (Santo Isidro)"
+,"CATEGORIA":"Grupo-C (Casa de Labranza) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.17812859599991,42.7431241560001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR139"
+,"LOCALIDAD":"TRIACASTELA"
+,"NOMBRE":"CASA TECELÁN"
+,"id_zona":5
+,"TELEFONO":"982548047 / 982548147"
+,"CP":"27639"
+,"id_categor":3
+,"x":645696.604
+,"y":4737401.428
+,"CARACTERISTICAS":"Xardín , Horta."
+,"WEB":" "
+,"id":17
+,"EMAIL":" "
+,"IMAGEN":"TR139.JPG"
+,"CAPACIDAD":"4 cuartos"
+,"OBJECTID":30
+,"DIRECCION":"Santalla , Santalla de Alfoz (Santalla)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.21899360099991,42.775305325]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR140"
+,"LOCALIDAD":"TRIACASTELA"
+,"NOMBRE":"CASA XATO"
+,"id_zona":5
+,"TELEFONO":"982187301"
+,"CP":"27464"
+,"id_categor":3
+,"x":649106.741
+,"y":4734022.609
+,"CARACTERISTICAS":"Agricultura ecolóxica , Aparcadoiro , Cabalos , Comedor , Lavadora dispoñible-Lavandaría , Parque Infantil , Salón , Tarefas agropecuarias , Televisión común , Xardín , Horta."
+,"WEB":" "
+,"id":18
+,"EMAIL":" "
+,"IMAGEN":"TR140.JPG"
+,"CAPACIDAD":"7 cuartos"
+,"OBJECTID":31
+,"DIRECCION":"O Biduedo , Lamas de Biduedo (Santo Isidro)"
+,"CATEGORIA":"Grupo-C (Casa de Labranza) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.17821962599993,42.744237125]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR145"
+,"LOCALIDAD":"VILALBA"
+,"NOMBRE":"CASA DO ROUCO"
+,"id_zona":1
+,"TELEFONO":"982527887 / 982511333"
+,"CP":"27841"
+,"id_categor":3
+,"x":615685.028
+,"y":4794438.665
+,"CARACTERISTICAS":"Adaptado a minusválidos , Aparcadoiro ,Comedor ,  Lavadora dspoñible-Lavandaría , Tarefas agropecuarias , Televisión común , Televisor nos cuartos ,Xardín , Horta."
+,"WEB":" "
+,"id":19
+,"EMAIL":" "
+,"IMAGEN":"TR145.JPG"
+,"CAPACIDAD":"5 cuartos"
+,"OBJECTID":32
+,"DIRECCION":"Seivane , Román (Santalla)"
+,"CATEGORIA":"Grupo-C (Casa de Labranza) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.57389060099996,43.293886978]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR144"
+,"LOCALIDAD":"VILALBA"
+,"NOMBRE":"LUGAR DA PEDREIRA"
+,"id_zona":1
+,"TELEFONO":"982526896 / 654164864"
+,"CP":"27843"
+,"id_categor":3
+,"x":617643.814
+,"y":4796721.555
+,"CARACTERISTICAS":"Adaptado a minusválidos , Admite tarxetas de crédito , Aparcadoiro , Berces , Comedor , Lavadora dispoñible-Lavandaría , Prohibido fumar , Televisión común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":"www.lugardapedreira.com"
+,"id":20
+,"EMAIL":" "
+,"IMAGEN":"TR144.JPG"
+,"CAPACIDAD":"10 cuartos"
+,"OBJECTID":33
+,"DIRECCION":"A Pedreira , Carballido (Santa María)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Abero todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.54926248099991,43.3141333460001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR149"
+,"LOCALIDAD":"VIVEIRO"
+,"NOMBRE":"CASA DO BATÁN"
+,"id_zona":5
+,"TELEFONO":"982598223 / 677567798"
+,"CP":"27864"
+,"id_categor":3
+,"x":614659.089
+,"y":4830158.868
+,"CARACTERISTICAS":"Aparcadoiro , Berces , Fálase inglés , Internet-Wifi , Prohibido fumar , Televisión común , Xardín , Horta."
+,"WEB":"www.casadobatan.com"
+,"id":21
+,"EMAIL":"casadobatan@casadobatan.com"
+,"IMAGEN":"TR149.JPG"
+,"CAPACIDAD":"4 cuartos"
+,"OBJECTID":34
+,"DIRECCION":"O Batán , Chavín (Santa María)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Consultar"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.57902367599991,43.6155833670001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR147"
+,"LOCALIDAD":"VIVEIRO"
+,"NOMBRE":"PAZO DA TRAVE"
+,"id_zona":5
+,"TELEFONO":"982598163 / 982562589"
+,"CP":"27867"
+,"id_categor":3
+,"x":611775.481
+,"y":4832022.322
+,"CARACTERISTICAS":"Fálase francés , Internet , Wifi , Lavadora dispoñible-Lavandaría , Parque infantil , Piscina , Prohibido fumar , Restaurante , Salón , Salón de reunións , Tarefas agropecuarias , Televisión común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":"www.pazodatrave.com"
+,"id":22
+,"EMAIL":"pazo@pazodotrave.com"
+,"IMAGEN":"TR147.JPG"
+,"CAPACIDAD":"18 cuartos"
+,"OBJECTID":35
+,"DIRECCION":"A Trabe , Galdo (Santa María)"
+,"CATEGORIA":"Grupo-A (Pazo) - Non Compartido"
+,"APERTURA":"Consultar"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.61436467299995,43.6327957570001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR146"
+,"LOCALIDAD":"VIVEIRO"
+,"NOMBRE":"CASA DA TORRE"
+,"id_zona":5
+,"TELEFONO":"982598026"
+,"CP":"27866"
+,"id_categor":3
+,"x":612508.21
+,"y":4830949.62
+,"CARACTERISTICAS":"Aparcadoiro , Berces , Comedor , Prohibido fumar , Televisión común , Xardín , Horta."
+,"WEB":"www.casadatorre.com"
+,"id":23
+,"EMAIL":" "
+,"IMAGEN":"TR146.JPG"
+,"CAPACIDAD":"8 cuartos"
+,"OBJECTID":36
+,"DIRECCION":"Toxeiras , Landrove (San xiao)"
+,"CATEGORIA":"Grupo-A (Casa Grande) - Non Compartido"
+,"APERTURA":"Consultar"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.60550725899992,43.623029461]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR148"
+,"LOCALIDAD":"VIVEIRO"
+,"NOMBRE":"AREAL"
+,"id_zona":5
+,"TELEFONO":"651990072 / 982562236"
+,"CP":"27869"
+,"id_categor":3
+,"x":611411.401
+,"y":4833485.073
+,"CARACTERISTICAS":"Aparcadoiro , Berces , Comedor , Fálase inglés , Fálase italiano , Internet-Wifi , Lavadora dispoñible-Lavandaría , Salón , Televisión común , Tenis , Xardín , Horta."
+,"WEB":"www.arelrural.com"
+,"id":24
+,"EMAIL":"areal1@arealrural.com"
+,"IMAGEN":"TR148.JPG"
+,"CAPACIDAD":"9 cuartos"
+,"OBJECTID":37
+,"DIRECCION":"O Areal , Vieiro (San Cibrao)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Consultar"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.61857504099993,43.646017262]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR151"
+,"LOCALIDAD":"XERMADE"
+,"NOMBRE":"CASA DE A FRAGA"
+,"id_zona":1
+,"TELEFONO":"982188322 / 667532151"
+,"CP":"27824"
+,"id_categor":3
+,"x":595371.45
+,"y":4795514.221
+,"CARACTERISTICAS":"Actividades de artesanía , Adaptado a minusválidos , Admite cans (consultar) , Admite tarxetas de crédito , Agricultura ecolóxica , Aparcadoiro , Bar-Cafetería , Berces , Comedor , Fálase francés , Prohibido fumar , Xardin , Horta."
+,"WEB":" "
+,"id":25
+,"EMAIL":"info@casadafraga.com"
+,"IMAGEN":"TR151.JPG"
+,"CAPACIDAD":"10 cuartos"
+,"OBJECTID":38
+,"DIRECCION":"A Fraga , Cazás (San Xulián)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.82406273699991,43.3064177590001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR150"
+,"LOCALIDAD":"XERMADE"
+,"NOMBRE":"A PENA DE CANDAMIL"
+,"id_zona":1
+,"TELEFONO":"982501727 / 637590787"
+,"CP":"27833"
+,"id_categor":3
+,"x":599206.424
+,"y":4802817.126
+,"CARACTERISTICAS":"(Distintivo Lugo2) Admite cans (consultar) , Aparcadoiro , Comedor , Dereito a cociña , Grella , Lavadora dispoñible-Lavandaría , Parque Infantil , Piscina , Salón , Televisor nos cuartos , Xardín , Horta."
+,"WEB":"www.penacandamil.agatur.org"
+,"id":26
+,"EMAIL":"penacandamil@agatur.org"
+,"IMAGEN":"TR150.JPG"
+,"CAPACIDAD":"8 cuartos"
+,"OBJECTID":39
+,"DIRECCION":"A Pena , Candamil (San Miguel)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.77546691299995,43.371666282]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR152"
+,"LOCALIDAD":"XOVE"
+,"NOMBRE":"CASA DE TEIXIDE"
+,"id_zona":5
+,"TELEFONO":"982592211 / 982594476"
+,"CP":"27878"
+,"id_categor":3
+,"x":622471.798
+,"y":4837993.39
+,"CARACTERISTICAS":"Aparcadoiro , Comedor , Televisión  común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":" "
+,"id":27
+,"EMAIL":" "
+,"IMAGEN":"TR152.JPG"
+,"CAPACIDAD":"5 cuartos"
+,"OBJECTID":40
+,"DIRECCION":"Estrada Beltrán - Praia de Lago, Km. 0 , Beltrán , Lago (Santa Eulalia)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.48045558099994,43.6848567580001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR120"
+,"LOCALIDAD":"SAMOS"
+,"NOMBRE":"CASA ARZA"
+,"id_zona":5
+,"TELEFONO":"982187036"
+,"CP":"27633"
+,"id_categor":3
+,"x":643100.626
+,"y":4732745.29
+,"CARACTERISTICAS":"Adaptado a minusválidos , Admite tarxetas de crédito , Agricultura ecolóxica , Aparcadoiro , Berces , Comedor , Dereito a cociña , Fálase francés , Fálase  inglés , Grella , Lavadora dispoñible-Lavandaría , Parque Infantil , Tarefas agropecuaria , Televisión común , Xardín , Horta."
+,"WEB":" "
+,"id":28
+,"EMAIL":" "
+,"IMAGEN":"TR120.JPG"
+,"CAPACIDAD":"9 cuartos"
+,"OBJECTID":41
+,"DIRECCION":"Reigosa, 2 , San Cristovo do Real (San Cristovo)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.25189119999993,42.7338831880001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR121"
+,"LOCALIDAD":"SAMOS"
+,"NOMBRE":"CASA DE AIRA PADRÓN"
+,"id_zona":5
+,"TELEFONO":"982546063"
+,"CP":"27620"
+,"id_categor":3
+,"x":641191.708
+,"y":4728591.473
+,"CARACTERISTICAS":"Adaptado a minusválidos , Admite cans (consultar) , Aluguer de bicicletas , Aparcadoiro , Bar-Cafetería , Lavadora dispoñible-Lavandaría , Televisión común , Xardín ,Horta."
+,"WEB":" "
+,"id":29
+,"EMAIL":" "
+,"IMAGEN":"TR121.JPG"
+,"CAPACIDAD":"3 cuartos"
+,"OBJECTID":42
+,"DIRECCION":"Airapadrón , San Cristovo de Lóuzara (San Cristovo)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.27623551499994,42.6968462890001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR122"
+,"LOCALIDAD":"SAMOS"
+,"NOMBRE":"CASA DE DÍAZ"
+,"id_zona":5
+,"TELEFONO":"982547070 / 619164748"
+,"CP":"27620"
+,"id_categor":3
+,"x":634371.698
+,"y":4733242.165
+,"CARACTERISTICAS":"Admite tarxetas de crédito , Aparcadoiro , Bar-Cafetería , Berces , Fálase francés , Fálase inglés , Prohibido fumar , Salón de reunións , Televisión común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":"www.casadediaz.com"
+,"id":30
+,"EMAIL":"casadediaz@galicia.com"
+,"IMAGEN":"TR122.JPG"
+,"CAPACIDAD":"10 cuartos"
+,"OBJECTID":43
+,"DIRECCION":"Vilachá, 4 , Castroncán (Santa Marta)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non Compartido"
+,"APERTURA":"Consultar"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.35836120399995,42.7399336510001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR123"
+,"LOCALIDAD":"SAMOS"
+,"NOMBRE":"CASA LICERIO"
+,"id_zona":5
+,"TELEFONO":"982546012 / 982546162"
+,"CP":"27620"
+,"id_categor":3
+,"x":636897.813
+,"y":4732110.282
+,"CARACTERISTICAS":"Aparcadoiro , Comedor , Dereito a cociña , Fálase fancés , Televisión común , Xardín , Horta."
+,"WEB":" "
+,"id":31
+,"EMAIL":" "
+,"IMAGEN":"TR123.JPG"
+,"CAPACIDAD":"5 cuartos"
+,"OBJECTID":44
+,"DIRECCION":"Generalísimo, 44 , Samos , Samos (Santa Xertrude)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.32778582699996,42.729298365]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR126"
+,"LOCALIDAD":"SARRIA"
+,"NOMBRE":"CASA CAXIGUEIRO"
+,"id_zona":5
+,"TELEFONO":"982534020 / 982531349"
+,"CP":"27613"
+,"id_categor":3
+,"x":626261.697
+,"y":4737041.679
+,"CARACTERISTICAS":"Actividades de artesanía , Adaptado a minusválidos , Admite cans (consultar) , Admite tarxetas de crédito , Agricultura ecolóxica , Aparcadoiro , Bar-Cafetería , Berces , Comedor , Fálase francés, Fálase inglés , Grella , Parque infantil , Tarefas agropecuarias , Televisión  común , Xardín , Horta."
+,"WEB":" "
+,"id":32
+,"EMAIL":" "
+,"IMAGEN":"TR124.JPG"
+,"CAPACIDAD":"4 cuartos"
+,"OBJECTID":45
+,"DIRECCION":"Sabenche, 5 , Barbadelo (Santiago)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.45655727599996,42.775514817]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR127"
+,"LOCALIDAD":"SARRIA"
+,"NOMBRE":"CASA NOVA DE RENTE"
+,"id_zona":5
+,"TELEFONO":"982187854"
+,"CP":"27600"
+,"id_categor":3
+,"x":625990.132
+,"y":4736277.64
+,"CARACTERISTICAS":"Aparcadoiro , Comedor , Lavadora dispoñible-Lavandaría , Tarefas agropecuarias , Televisión común , Xardín , Horta."
+,"WEB":" "
+,"id":33
+,"EMAIL":" "
+,"IMAGEN":"TR127.JPG"
+,"CAPACIDAD":"6 cuartos"
+,"OBJECTID":46
+,"DIRECCION":"Rente , Barbadelo (Santiago)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.46004620699995,42.7686814790001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR124"
+,"LOCALIDAD":"SARRIA"
+,"NOMBRE":"RECTORAL DE GOIÁN"
+,"id_zona":5
+,"TELEFONO":"982533813"
+,"CP":"27614"
+,"id_categor":3
+,"x":625929.823
+,"y":4741577.364
+,"CARACTERISTICAS":"Adaptado a minusválidos , Admite tarxetas de crédito , Agricultura ecóloxica , Berces , Comedor , Internet-Wifi , Parque Infantil , Prohibido fumar , Tarefas agropecuarias , Televisión común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":"www.rectoraldegoian.com"
+,"id":34
+,"EMAIL":"info@rectoraldegoian.com"
+,"IMAGEN":"TR124.JPG"
+,"CAPACIDAD":"6 cuartos"
+,"OBJECTID":47
+,"DIRECCION":"Cabezares , Goián (San Miguel)"
+,"CATEGORIA":"Grupo-A (Casa Reitoral) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.45960010999994,42.8164003510001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR125"
+,"LOCALIDAD":"SARRIA"
+,"NOMBRE":"TORRE DO BARRIO"
+,"id_zona":5
+,"TELEFONO":"982533727 / 982533730"
+,"CP":"27619"
+,"id_categor":3
+,"x":635190.329
+,"y":4737879.795
+,"CARACTERISTICAS":"Adaptado a minusválidos , Admite tarxetas de créditos , Agricultura ecolóxica , Aluguer de bicicletas , Aparcadoiro , Bar-Cafetería , Berces , Comedor , Grella , Parque Infantil , Salón de reunións , Tarefas agropecuarias , Televisión común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":" "
+,"id":35
+,"EMAIL":" "
+,"IMAGEN":"TR125.JPG"
+,"CAPACIDAD":"8 cuartos"
+,"OBJECTID":48
+,"DIRECCION":"Loureiro , Loureiro (San Martiño)"
+,"CATEGORIA":"Grupo-A (Pazo) - Compartido"
+,"APERTURA":"Consultar"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.34725441999996,42.781536514]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR112"
+,"LOCALIDAD":"QUIROGA"
+,"NOMBRE":"CASA GRANDE DA FERRERÍA DE RUGANDO"
+,"id_zona":5
+,"TELEFONO":"982428890"
+,"CP":"27329"
+,"id_categor":3
+,"x":651720.308
+,"y":4705270.859
+,"CARACTERISTICAS":"Adaptado a minusválidos , Admite cans (Consultar) , Admite tarxetas de crédito , Aluguer de bicicletas , Aparcadoiro , Bar-Cafetería , Berces , Comedor , Fálase francés , Fálase inglés , Internet , Wifi , Piscina , Salón , Salón de reunións , Spa , Televisión común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":"www.rugando.com"
+,"id":36
+,"EMAIL":"reservas@rugando.com"
+,"IMAGEN":"TR112.JPG"
+,"CAPACIDAD":"8 cuartos"
+,"OBJECTID":49
+,"DIRECCION":"Rugando , Vilarmel (San Lourenzo)"
+,"CATEGORIA":"Grupo-A (Casa Grande) - Compartido"
+,"APERTURA":"Consultar"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.15396518999995,42.4849304190001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR113"
+,"LOCALIDAD":"QUIROGA"
+,"NOMBRE":"CASA BONIFACIO"
+,"id_zona":5
+,"TELEFONO":"982185449"
+,"CP":"27320"
+,"id_categor":3
+,"x":639568.725
+,"y":4707727.078
+,"CARACTERISTICAS":"Bar-Cafetería , Comedor , Televisión  común , Xardín , Horta."
+,"WEB":" "
+,"id":37
+,"EMAIL":" "
+,"IMAGEN":"TR113.JPG"
+,"CAPACIDAD":"6 cuartos"
+,"OBJECTID":50
+,"DIRECCION":"Vilar de Lor , Vilar de Lor (San Xosé)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.30115334799996,42.5093268850001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR119"
+,"LOCALIDAD":"RIBAS DE SIL"
+,"NOMBRE":"O VERXEL"
+,"id_zona":5
+,"TELEFONO":"982186950 / 651059335"
+,"CP":"27319"
+,"id_categor":3
+,"x":641227.213
+,"y":4701309.836
+,"CARACTERISTICAS":"Aparcadoiro , Berces , Comedor , Dereito a cociña , Grella , Lavadora dispoñible-Lavandaría , Televisión  común , Xardín , Horta."
+,"WEB":" "
+,"id":38
+,"EMAIL":" "
+,"IMAGEN":"TR119.JPG"
+,"CAPACIDAD":"6 cuartos"
+,"OBJECTID":51
+,"DIRECCION":"Vilar do Mato,1 , Ribas de Sil (San Clodio)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.28255582599991,42.4512588320001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR114"
+,"LOCALIDAD":"RIBADEO"
+,"NOMBRE":"A CORTIÑA DE CANTALARRANA"
+,"id_zona":2
+,"TELEFONO":"982130187"
+,"CP":"27700"
+,"id_categor":3
+,"x":657271.549
+,"y":4822213.494
+,"CARACTERISTICAS":"(Distintivo Lugo2) Admite tarxetas de crédito , Aparcadoiro , Comedor , Lavadora dispoñible-Lavandaría , Tarefas agropecuarias , Televisión común , Xardín , Horta."
+,"WEB":"www.cantalarrana.com"
+,"id":39
+,"EMAIL":"info@cantalarrana.com"
+,"IMAGEN":"TR114.JPG"
+,"CAPACIDAD":"6 cuartos"
+,"OBJECTID":52
+,"DIRECCION":"Paco Lanza, s/n , Grañol , Ove (San Xoán"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Consultar"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.05349034099993,43.5363014920001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR115"
+,"LOCALIDAD":"RIBADEO"
+,"NOMBRE":"CASA BENITO"
+,"id_zona":2
+,"TELEFONO":"654177203"
+,"CP":"27797"
+,"id_categor":3
+,"x":653632.935
+,"y":4821883.801
+,"CARACTERISTICAS":"(Distintivo Lugo2) Aparcadoiro , Berces , Dereito a cociña , Fálase inglés , Lavadora dispoñible-Lavandaría , Salón de reunións , Televisión común."
+,"WEB":"www.casabenito.info"
+,"id":40
+,"EMAIL":"web@casabenito.info"
+,"IMAGEN":"TR115.JPG"
+,"CAPACIDAD":"4 cuartos"
+,"OBJECTID":53
+,"DIRECCION":"A Madanela , Vilaframil (San Lourenzo)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.09859309699993,43.5340921820001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR116"
+,"LOCALIDAD":"RIBADEO"
+,"NOMBRE":"CASA DOÑANO"
+,"id_zona":2
+,"TELEFONO":"982137429 / 610415894"
+,"CP":" 27714"
+,"id_categor":3
+,"x":653354.916
+,"y":4819390.939
+,"CARACTERISTICAS":"Actividades de artesanía , Adaptado a minusválidos , Admite tarxetas de crédito , Aluguer de bicicletas , Aparcadoiro , Berces , Comedor , Fálase francés , Fálase inglés , Fálase italiano , Internet-Wifi , Restaurante , Salón de reunións , Televisor nos cuartos , Xardín , Horta."
+,"WEB":"www.casadonano.com"
+,"id":41
+,"EMAIL":"turismorural@casadonano.com"
+,"IMAGEN":"TR116.JPG"
+,"CAPACIDAD":"9 cuartos"
+,"OBJECTID":54
+,"DIRECCION":"Vilela , Covelas (San Vicente)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.10273550399995,43.511715285]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR117"
+,"LOCALIDAD":"RIBADEO"
+,"NOMBRE":"HUERTA DE OBE"
+,"id_zona":2
+,"TELEFONO":"982128715"
+,"CP":"27713"
+,"id_categor":3
+,"x":656864.975
+,"y":4822019.918
+,"CARACTERISTICAS":"Aparcadoiro , Dereito a cociña , Grella , Prohibido fumar , Televisión común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":" "
+,"id":42
+,"EMAIL":" "
+,"IMAGEN":"TR117.JPG"
+,"CAPACIDAD":"9 cuartos"
+,"OBJECTID":55
+,"DIRECCION":"Estrada de Santa Cruz , Ove (San  Xoán)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.05857546399994,43.5346450310001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR118"
+,"LOCALIDAD":"RIBADEO"
+,"NOMBRE":"VILA POMAR"
+,"id_zona":2
+,"TELEFONO":"982129769 / 609587083"
+,"CP":"27712"
+,"id_categor":3
+,"x":656317.751
+,"y":4816586.218
+,"CARACTERISTICAS":"(Distintivo Lugo2) Aparcadoiro , Comedor , Televisión común , Xardín , Horta."
+,"WEB":"www.vilapomar.com"
+,"id":43
+,"EMAIL":"info@vilapomar.com"
+,"IMAGEN":"TR118.JPG"
+,"CAPACIDAD":"9 cuartos"
+,"OBJECTID":56
+,"DIRECCION":"Santalla , Santalla de Vilausende (Santalla)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.06690616999992,43.4858611480001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR133"
+,"LOCALIDAD":"SOBER"
+,"NOMBRE":"RECTORAL DE ANLLO"
+,"id_zona":5
+,"TELEFONO":"982460039 / 615370029"
+,"CP":" 27460"
+,"id_categor":3
+,"x":612971.964
+,"y":4699466.059
+,"CARACTERISTICAS":"Adaptado a minusválidos , Admite tarxetas de crédito , Agricultura ecolóxica , Aluguer de bicicletas , Aparcadoiro , Comedor , Fálase inglés , Lavadora dispoñible-Lavandaría , Salón , Salón de reunións , Televisión común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":"www.rectoraldeanllo.com"
+,"id":44
+,"EMAIL":" "
+,"IMAGEN":"TR133.JPG"
+,"CAPACIDAD":"9 cuartos"
+,"OBJECTID":57
+,"DIRECCION":"A Mogueira, 68 , Anllo (Santo Estevo)"
+,"CATEGORIA":"Grupo-A (Casa Reitoral) - Compartido"
+,"APERTURA":"Consultar"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.62641869999993,42.4392917920001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR132"
+,"LOCALIDAD":"SOBER"
+,"NOMBRE":"CASA GRANDE DE ROSENDE"
+,"id_zona":5
+,"TELEFONO":"982460627"
+,"CP":"27466"
+,"id_categor":3
+,"x":613421.094
+,"y":4701407.839
+,"CARACTERISTICAS":"Admite cans ( consultar) , Admite tarxetas de crédito , Aparcadoiro , Bar-Cafetería , Comedor , Fálase francés , Fálase inglés , Internet,Wifi , Lavadora dispoñible-Lavandaría , Prohibido fumar , Salón de reunións , Tarefas agropecuarias , Televisión común , Televisor nos  cuartos , Xardín , Horta."
+,"WEB":"www.casagrandederosende.com"
+,"id":45
+,"EMAIL":"rosende@infonegocio.com"
+,"IMAGEN":"TR132.JPG"
+,"CAPACIDAD":"12 cuatos"
+,"OBJECTID":58
+,"DIRECCION":"Rosende , Rosende (San Miguel)  "
+,"CATEGORIA":"Grupo-A (Casa Grande) - Compartido"
+,"APERTURA":"Aberto todo o ano, excepto en navidades"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.62057584499991,42.4567087520001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR58"
+,"LOCALIDAD":"FRIOL"
+,"NOMBRE":"CASA DE MARTIÑO"
+,"id_zona":1
+,"TELEFONO":"982163700 / 639994509"
+,"CP":"27220"
+,"id_categor":3
+,"x":595963.908
+,"y":4764850.24
+,"CARACTERISTICAS":"Adaptado a minusválidos , Admite cans (consultar) , Aparcadoiro , Comedor , Tarefas agropecuarias , Televisión común , Xardín , Horta."
+,"WEB":"www.casademartino.com"
+,"id":46
+,"EMAIL":"jacvu@hotmail.com"
+,"IMAGEN":"TR58.JPG"
+,"CAPACIDAD":"4 cuartos"
+,"OBJECTID":59
+,"DIRECCION":"O Outeiro , Ramelle (Santa María)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Consultar"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.82207669699994,43.0302773800001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR57"
+,"LOCALIDAD":"FOZ"
+,"NOMBRE":"FINCA GOLETA"
+,"id_zona":5
+,"TELEFONO":"982137301"
+,"CP":"27788"
+,"id_categor":3
+,"x":639865.062
+,"y":4821914.487
+,"CARACTERISTICAS":"Admite tarxetas de crédito , Aluguer de bicicletas , Aparcadoiro , Bar-Cafetería , Berces , Comedor , Fálase francés , Fálase inglés , Lavadora dispoñible-Lavandaría , Prohibido fumar , Televisión común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":"www.fincagoleta.com"
+,"id":47
+,"EMAIL":"goleta@fincagoleta.com"
+,"IMAGEN":"TR57.JPG"
+,"CAPACIDAD":"10 cuartos"
+,"OBJECTID":60
+,"DIRECCION":"Goleta, 6 , A Espiñeira , Vilaronte (San Xoán)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano, excepto en navidades"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.26890017799991,43.5370747480001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR55"
+,"LOCALIDAD":"FOZ"
+,"NOMBRE":"A FIALLEGA"
+,"id_zona":5
+,"TELEFONO":"982140159 / 699094798"
+,"CP":"27780"
+,"id_categor":3
+,"x":640138.635
+,"y":4825771.804
+,"CARACTERISTICAS":"Adaptado a minusválidos , Admite tarxetas de crédito , Aluguer de bicicletas , Aparcadoiro , Bar-Cafetería , Berces , Comedor , Internet-Wifi , Prohibido fumar , Salón de reunións , Televisión común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":"www.afiallega.com"
+,"id":48
+,"EMAIL":"info@afiallega.com"
+,"IMAGEN":"TR55.JPG"
+,"CAPACIDAD":"8 cuartos"
+,"OBJECTID":61
+,"DIRECCION":"Marzán , Foz (Santiago)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano, excepto en navidades"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.26451943699993,43.5717395980001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR56"
+,"LOCALIDAD":"FOZ"
+,"NOMBRE":"CASA GENARA"
+,"id_zona":5
+,"TELEFONO":"982136076 / 649155223"
+,"CP":" "
+,"id_categor":3
+,"x":635458.218
+,"y":4829956.329
+,"CARACTERISTICAS":"Dereito a cociña , Grella , Lavadora dispoñible-Lavandaría , Prohibido fumar , Televisión común , Xardín , Horta."
+,"WEB":" "
+,"id":49
+,"EMAIL":" "
+,"IMAGEN":"TR56.JPG"
+,"CAPACIDAD":"2 cuartos"
+,"OBJECTID":62
+,"DIRECCION":"Cabanas,22-24 , Nois (San Xiao)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.32141026799991,43.6102665720001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR54"
+,"LOCALIDAD":"FOZ"
+,"NOMBRE":"A CASA DE PIEGO"
+,"id_zona":5
+,"TELEFONO":"982142148"
+,"CP":"27786"
+,"id_categor":3
+,"x":631377.875
+,"y":4823854.558
+,"CARACTERISTICAS":"Adaptado a minusválidos , Admite tarxetas de crédito , Aluguer de bicicletas , Aparcadoiro , Berces , Cabalos , Comedor , Internet ,Wifi , Prohibido fumar , Quads , Televisión común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":"www.acasadepiego.com"
+,"id":50
+,"EMAIL":"contacto@acasadepiego.es"
+,"IMAGEN":"TR54.JPG"
+,"CAPACIDAD":"9 cuartos"
+,"OBJECTID":63
+,"DIRECCION":"Martín, 10 , Santo Acisclo do Valadouro"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.37343290199993,43.5560785470001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR61"
+,"LOCALIDAD":"LÁNCARA"
+,"NOMBRE":"CASA DE LÁNCARA"
+,"id_zona":1
+,"TELEFONO":"982167454 / 610574256"
+,"CP":"27367"
+,"id_categor":3
+,"x":635892.182
+,"y":4747185.811
+,"CARACTERISTICAS":"Admite cans (consultar) , Aparcadoiro , Berces , Cabalos, Comedor , Fálase inglés , Lavadora dispoñible-Lavandaría , Salón de reunións , Televisión común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":" "
+,"id":51
+,"EMAIL":" "
+,"IMAGEN":"TR61.JPG"
+,"CAPACIDAD":"7 cuartos"
+,"OBJECTID":64
+,"DIRECCION":"Láncara, 25 , Láncara (San Pedro)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.33643248999994,42.8651811490001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR31"
+,"LOCALIDAD":"O CORGO"
+,"NOMBRE":"CASA GRANDE DA FERVENZA"
+,"id_zona":1
+,"TELEFONO":"982150610 / 982151610"
+,"CP":"27163"
+,"id_categor":3
+,"x":620704.947
+,"y":4749477.18
+,"CARACTERISTICAS":"Adaptado a minusválidos , Admite cans (consultar) , Admite tarxetas de crédito , Agricultura ecolóxica , Aluguer de bicicletas , Aparcadoiro , Bar-Cafetería , Berces , Comedor , Fálase francés , Fálase inglés , Fálase italiano , Grella , Internet-Wifi , Lavadora dispoñible-Lavandaría , Parque Infantil , Piscina , Restaurante , Salón de reunións , Tarefas agropecuarias , Televisión  común , Xardin , Horta."
+,"WEB":"www.fervenza.com"
+,"id":52
+,"EMAIL":"info@fervenza.com"
+,"IMAGEN":"TR31.JPG"
+,"CAPACIDAD":"8 cuartos"
+,"OBJECTID":65
+,"DIRECCION":"O Reguengo , Santo Estevo de Farnadeiros (Santo Estevo)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea ) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.52179529699993,42.8883588880001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR30"
+,"LOCALIDAD":" O CORGO"
+,"NOMBRE":"CASA GRANDE DE CAMPOSO"
+,"id_zona":5
+,"TELEFONO":"982543800"
+,"CP":"27364"
+,"id_categor":3
+,"x":624286.733
+,"y":4748331.241
+,"CARACTERISTICAS":"Adaptado a minusválidos , Admite cans (consultar) , Admite tarxetas de crédito , Aluguer de bicicletas , Aparcadoiro , Berces , Comedor , Fálase inglés , Lavadora dispoñible-Lavandaría , Parque infantil , Televisión común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":"www.camposo.com"
+,"id":53
+,"EMAIL":"info@camposo.com"
+,"IMAGEN":"TR30.JPG"
+,"CAPACIDAD":"8 cuartos"
+,"OBJECTID":66
+,"DIRECCION":"Camposo, 7 , Camposo (Santiago)"
+,"CATEGORIA":"Grupo-A (Casa Grande) - Compartido"
+,"APERTURA":"Consultar"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.47819972399992,42.8774683600001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR80"
+,"LOCALIDAD":"OUROL"
+,"NOMBRE":"CASA OS CARBALLÁS"
+,"id_zona":1
+,"TELEFONO":"982559011 / 677079782"
+,"CP":"27866"
+,"id_categor":3
+,"x":610869.501
+,"y":4827341.307
+,"CARACTERISTICAS":"Agricultura ecolóxica , Aluguer de bicicletas , Aparcadoiro , Berces , Cabalos , Comedor , Grella , Lavadora dispoñible-Lavandaría , Tarefas agropecuarias , Televisión  común , Xardín , Horta."
+,"WEB":"www.casaoscarballas.com"
+,"id":54
+,"EMAIL":"info@casaoscarballas.com"
+,"IMAGEN":"TR80.JPG"
+,"CAPACIDAD":"4 cuartos"
+,"OBJECTID":67
+,"DIRECCION":"Os Carballás, 2 , Merille (Santa Eulalia)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.62655193799992,43.590795025]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR97"
+,"LOCALIDAD":"PÁRAMO (O)"
+,"NOMBRE":"LAS HORAS PERDIDAS"
+,"id_zona":5
+,"TELEFONO":"982543232"
+,"CP":"27389"
+,"id_categor":3
+,"x":625699.735
+,"y":4745471.117
+,"CARACTERISTICAS":"Admite cans (consultar) , Admite tarxetas de crédito , Aparcadoiro , Comedor , Lavadora dispoñible-Lavandaría , Televisión común , Xardín , Horta."
+,"WEB":" "
+,"id":55
+,"EMAIL":" "
+,"IMAGEN":"TR97.JPG"
+,"CAPACIDAD":"7 cuartos"
+,"OBJECTID":68
+,"DIRECCION":"O Albaredo , Moscán (Santa María Madanela)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.46154420799991,42.8514901350001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR83"
+,"LOCALIDAD":"OUTEIRO DE REI"
+,"NOMBRE":"RÍO LADRA"
+,"id_zona":1
+,"TELEFONO":"982390706"
+,"CP":"27157"
+,"id_categor":3
+,"x":609181.128
+,"y":4774625.194
+,"CARACTERISTICAS":"(Distintivo Lugo2) Actividades de artesanía , Adaptado a minusválidos , Admite cans (consultar) , Admite tarxetas de crédito , Aluguer de bicicletas , Aparcadoiro , Bar-Cafetería , Berces , Comedor , Dereito a cociña , Fálase inglés , Internet-Wifi , Lavadora dispoñible-Lavandaría , Restaurante , Televisión común , Xardín , Horta."
+,"WEB":" "
+,"id":56
+,"EMAIL":"orioladra@hotmail.com"
+,"IMAGEN":"TR83.JPG"
+,"CAPACIDAD":"8 cuartos"
+,"OBJECTID":69
+,"DIRECCION":"A Ponte , Santiago de Gaioso (Santiago)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.65796169099991,43.11649192]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR82"
+,"LOCALIDAD":"OUTEIRO DE REI"
+,"NOMBRE":"REBOREDA DE ABAIXO"
+,"id_zona":1
+,"TELEFONO":"982390505 / 696451646"
+,"CP":"27155"
+,"id_categor":3
+,"x":608609.665
+,"y":4773170.305
+,"CARACTERISTICAS":"Adaptado a minusválidos , Admite tarxetas de crédito , Aluguer de bicicletas , Aparcadoiro , Bar-Cafetería , Berces , Comedor , Fálase Francés , Fálase inglés , Lavadora dispoñible-Lavandaría , Parque infantil , Prohibido fumar , Restaurante , Salón de reunións , Tarefas agropecuarias , Televisión común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":"www.reboredadeabaixo.com"
+,"id":57
+,"EMAIL":"info@reboredadeabaixo.com"
+,"IMAGEN":"TR82.JPG"
+,"CAPACIDAD":"6 cuartos"
+,"OBJECTID":70
+,"DIRECCION":"Francos , Francos (Santiago)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.66526883899991,43.1034764880001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR81"
+,"LOCALIDAD":"OUTEIRO DE REI"
+,"NOMBRE":"O LUGAR DE PASCUAIS"
+,"id_zona":1
+,"TELEFONO":"982392552"
+,"CP":"27299"
+,"id_categor":3
+,"x":609557.668
+,"y":4770125.881
+,"CARACTERISTICAS":"Adaptado a minusválidos , Admite tarxetas de crédito , Bar-Cafetería , Comedor , Restaurante , Tarefas agropecuarias, Televisor nos cuartos , Xardín , Horta."
+,"WEB":" "
+,"id":58
+,"EMAIL":" "
+,"IMAGEN":"TR81.JPG"
+,"CAPACIDAD":"7 cuartos"
+,"OBJECTID":71
+,"DIRECCION":"Pascuais , Parada (San Xoán)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.65422200999996,43.0759327160001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR59"
+,"LOCALIDAD":"INCIO (O)"
+,"NOMBRE":"A NIÑADA"
+,"id_zona":5
+,"TELEFONO":"659458559"
+,"CP":"27346"
+,"id_categor":3
+,"x":636681.887
+,"y":4722959.472
+,"CARACTERISTICAS":"Aparcadoiro , Comedor , Dereito a cociña , Fálase francés , Grella , Televisión  común , Xardín , Horta."
+,"WEB":"www.aninada.com"
+,"id":59
+,"EMAIL":" "
+,"IMAGEN":"TR59.JPG"
+,"CAPACIDAD":"4 cuartos"
+,"OBJECTID":72
+,"DIRECCION":"Trascastro , Trascastro (Santalla)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.33262746099996,42.646963466]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR60"
+,"LOCALIDAD":"INCIO (O)"
+,"NOMBRE":"CASA DO CABAZO"
+,"id_zona":5
+,"TELEFONO":"982427171 / 619953545"
+,"CP":" 27345"
+,"id_categor":3
+,"x":630134.155
+,"y":4724455.317
+,"CARACTERISTICAS":"Adaptado a minusválidos , Admite cans (consultar) , Admite tarxetas de crédito , Aparcadoiro , Berces , Comedor , Fálase francés , Fálase italiano , Internet-Wifi , Xardín , Horta."
+,"WEB":"www.casadocabazo.com"
+,"id":60
+,"EMAIL":"reservas@casadocabazo.com"
+,"IMAGEN":"TR60.JPG"
+,"CAPACIDAD":"7 cuartos"
+,"OBJECTID":73
+,"DIRECCION":"Vila Reguenga , Eirexalba (Santo Estevo)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.41212953599995,42.6615638950001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR131"
+,"LOCALIDAD":"SAVIÑAO (O)"
+,"NOMBRE":"TORRE VILARIÑO"
+,"id_zona":5
+,"TELEFONO":"982452260"
+,"CP":"27548"
+,"id_categor":3
+,"x":609717.48
+,"y":4712510.25
+,"CARACTERISTICAS":"Admite cans (consultar) , Admite tarxetas de crédito , Agricultura ecolóxica , Aluguer de bicicletas , Aparcadoiro , Bar-Cafetería , Comedor , Grella , Internet-Wifi , Lavadora dispoñible-Lavandaría , Parque infantil , Piscina , Prohibido fumar , Quads , Televisor nos cuartos , Xardín , Horta."
+,"WEB":"www.torrevilarino.com"
+,"id":61
+,"EMAIL":"correo@torrevilarino.com"
+,"IMAGEN":"TR131.JPG"
+,"CAPACIDAD":"9 cuartos"
+,"OBJECTID":74
+,"DIRECCION":"Vilariño , Fión (San Lourenzo)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.66347895399991,42.5572015670001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR128"
+,"LOCALIDAD":"SAVIÑAO (O)"
+,"NOMBRE":"CASA BENAXO"
+,"id_zona":5
+,"TELEFONO":"699262540"
+,"CP":"27543"
+,"id_categor":3
+,"x":610767.635
+,"y":4726067.507
+,"CARACTERISTICAS":"Adaptado a minusválidos , Admite tarxetas de crédito , Comedor , Lavadora dispoñible-Lavandaría , Televisión común , Xardín , Horta."
+,"WEB":"www.casabenaxo.com"
+,"id":62
+,"EMAIL":" "
+,"IMAGEN":"TR128.JPG"
+,"CAPACIDAD":"7 cuartos"
+,"OBJECTID":75
+,"DIRECCION":"Currelos , Vilaesteva (San Salvador)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.64805161599992,42.6791101750001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR129"
+,"LOCALIDAD":"SAVIÑAO (O)"
+,"NOMBRE":"CASA SANTO ESTEVO"
+,"id_zona":5
+,"TELEFONO":"982452734 / 655751735"
+,"CP":"27594"
+,"id_categor":3
+,"x":606036.428
+,"y":4719138.914
+,"CARACTERISTICAS":"Adaptado a minusválidos , Admite tarxetas de crédito , Aluguer de bicicletas , Aparcadoiro , Berces , Comedor , Fálase alemán , Fálase francés , Fálase inglés , Internet , Wifi , Lavadora dispoñible-Lavandaría , Televisión  común , Xardín , Horta."
+,"WEB":"www.ribeirasacra.com"
+,"id":63
+,"EMAIL":"casasantoestevo@ribeirasacra.com"
+,"IMAGEN":"TR129.JPG"
+,"CAPACIDAD":"6 cuartos"
+,"OBJECTID":76
+,"DIRECCION":"Ribas de Miño, 4 , Santo Estevo , Santo Estevo de Ribas de Miño (Santo Estevo)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.70707535499992,42.6173965770001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR130"
+,"LOCALIDAD":"SAVIÑAO (O)"
+,"NOMBRE":"CASA VILAMOR"
+,"id_zona":5
+,"TELEFONO":"982452384 / 982171942"
+,"CP":"27548"
+,"id_categor":3
+,"x":608884.155
+,"y":4719071.335
+,"CARACTERISTICAS":"Aluguer de bicicletas , Aparcadoiro , Comedor , Parque Infantil , Piscina , Tarefas agropecuarias , Televisión común , Xardín , Horta."
+,"WEB":" "
+,"id":64
+,"EMAIL":"casavilamor@agatur.org"
+,"IMAGEN":"TR130.JPG"
+,"CAPACIDAD":"7 cuartos"
+,"OBJECTID":77
+,"DIRECCION":"Vilamor , Piñeiró (San Sadurniño)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Consultar"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.67237429999994,42.6163910710001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR142"
+,"LOCALIDAD":"VICEDO (O)"
+,"NOMBRE":"CASA ALMOINA"
+,"id_zona":5
+,"TELEFONO":"982559293 / 670512056"
+,"CP":"27861"
+,"id_categor":3
+,"x":610159.246
+,"y":4840651.873
+,"CARACTERISTICAS":"Admite tarxetas de crédito , Aparcadoiro , Berces , Comedor , Dereito a cociña , Fálase inglés , Grella , Internet-Wifi , Lavadora dispoñible-Lavandaría , Televisión común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":"www.almoina.com"
+,"id":65
+,"EMAIL":"consultas@almoina.com"
+,"IMAGEN":"TR142.JPG"
+,"CAPACIDAD":"6 cuartos"
+,"OBJECTID":78
+,"DIRECCION":"A Lama , San Román de Vale (San Román)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.63263205899995,43.7107154190001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR143"
+,"LOCALIDAD":"VICEDO (O)"
+,"NOMBRE":"CASA LAMELAS"
+,"id_zona":5
+,"TELEFONO":"982590143"
+,"CP":"27861"
+,"id_categor":3
+,"x":605144.715
+,"y":4839879.455
+,"CARACTERISTICAS":"Admite tarxetas de crédito , Aluguer de bicicletas , Aparcadoiro , Comedor , Lavadora dispoñible-Lavandaría , Televisión  común , Xardín , Horta."
+,"WEB":" "
+,"id":66
+,"EMAIL":" "
+,"IMAGEN":"TR143.JPG"
+,"CAPACIDAD":"5 cuartos"
+,"OBJECTID":79
+,"DIRECCION":"O Morgallón , San Miguel de Negradas (San Miguel)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.69501024299996,43.7044899810001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR64"
+,"LOCALIDAD":"MEIRA"
+,"NOMBRE":"CASA CAZOLEIRO"
+,"id_zona":1
+,"TELEFONO":"982330331"
+,"CP":"27247"
+,"id_categor":3
+,"x":640407.781
+,"y":4786496.575
+,"CARACTERISTICAS":"(Distintivo Lugo2) Admite cans (consultar) , Admite tarxetas de crédito , Aluguer de bicicletas , Aparcadoiro , Bar-Cafetería , Cabalos , Comedor , Fisioterapia-Terapias Alterna. , Fálase alemán ,Fálase francés ,  Fálase inglés , Fálase italiano , Grella , Internet-Wifi , Parque infantil , Quads , Salón de reunións , Spa , Tarefas agropecuarias , Televisión común , Televisor nos cuartos , Xardín ,Horta."
+,"WEB":"www.casacazoleiro.com"
+,"id":67
+,"EMAIL":"info@casacazoleiro.com"
+,"IMAGEN":"TR64.JPG"
+,"CAPACIDAD":"10 cuartos"
+,"OBJECTID":80
+,"DIRECCION":"Grañanova , Meira (Santa María)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.27126860899995,43.218198676]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR7"
+,"LOCALIDAD":"BECERREÁ"
+,"NOMBRE":"CASA BOUZA"
+,"id_zona":3
+,"TELEFONO":"609133585"
+,"CP":"27640"
+,"id_categor":3
+,"x":647355.216
+,"y":4752126.183
+,"CARACTERISTICAS":"Adaptado a minusválidos , Aparcadoiro , Bar-Cafetería , Comedor , Lavadora dispoñible-Lavandaría , Prohibido fumar , Xardín , Horta."
+,"WEB":" "
+,"id":68
+,"EMAIL":"abouza@hotmail.com"
+,"IMAGEN":"TR7.JPG"
+,"CAPACIDAD":"5 cuartos"
+,"OBJECTID":81
+,"DIRECCION":"A Lagúa, 14 , Cascallá (Santa María)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.19487290999996,42.907523923]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR8"
+,"LOCALIDAD":"BECERREÁ"
+,"NOMBRE":"CASA CATUXA"
+,"id_zona":3
+,"TELEFONO":"982360315 / 982360755"
+,"CP":"27640"
+,"id_categor":3
+,"x":651299.136
+,"y":4747322.738
+,"CARACTERISTICAS":"Adaptado a minusválidos , Admite cans (consultar) , Aluguer de bicicletas , Aparcadoiro , Cabalos , Comedor , Lavadora dispoñible-Lavandaría , Tarefas agropecuarias , Televisión  común , Xardín , Horta."
+,"WEB":" "
+,"id":69
+,"EMAIL":" "
+,"IMAGEN":"TR8.JPG"
+,"CAPACIDAD":"7 cuartos"
+,"OBJECTID":82
+,"DIRECCION":"Ouselle, 9 , Ousella (San Cosme)"
+,"CATEGORIA":"Grupo-C (Casa de Labranza) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.14787781499996,42.8635184020001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR107"
+,"LOCALIDAD":"PEDRAFITA DO CEBREIRO"
+,"NOMBRE":"VENTA CELTA"
+,"id_zona":5
+,"TELEFONO":"982367137 / 667553006"
+,"CP":"27671"
+,"id_categor":3
+,"x":660134.145
+,"y":4730197.509
+,"CARACTERISTICAS":"Admite tarxetas de crédito , Comedor , Tarefas agropecuarias , Xardín , Horta."
+,"WEB":" "
+,"id":83
+,"EMAIL":" "
+,"IMAGEN":"TR107.JPG"
+,"CAPACIDAD":"4 cuartos"
+,"OBJECTID":83
+,"DIRECCION":"O Cebreiro , O Cebreiro (Santa María)"
+,"CATEGORIA":"Grupo-C (Casa de Labranza) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.04464308399992,42.707588306]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR102"
+,"LOCALIDAD":"PEDRAFITA DO CEBREIRO"
+,"NOMBRE":"CASA CAROLO"
+,"id_zona":5
+,"TELEFONO":"982367168"
+,"CP":"27670"
+,"id_categor":3
+,"x":660137.836
+,"y":4730239.93
+,"CARACTERISTICAS":"Aparcadoiro , Bar-Cafetería , Comedor , Restaurante , Televisión común , Xardín , Horta."
+,"WEB":" "
+,"id":84
+,"EMAIL":" "
+,"IMAGEN":"TR102.JPG"
+,"CAPACIDAD":"10 cuartos"
+,"OBJECTID":84
+,"DIRECCION":"O Cebreiro , O Cebreiro (Santa María)"
+,"CATEGORIA":"Grupo-C (Casa de Labranza) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.04458605099995,42.7079693380001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR103"
+,"LOCALIDAD":"PEDRAFITA DO CEBREIRO"
+,"NOMBRE":"CASA DE RODRÍGUEZ"
+,"id_zona":5
+,"TELEFONO":"982367162 / 636116333"
+,"CP":"27670"
+,"id_categor":3
+,"x":654481.067
+,"y":4730918.852
+,"CARACTERISTICAS":"Aparcadoiro , Comedor , Dereito a cociña , Lavadora dispoñible-Lavandaría , Tarefas agropecuarias , Televisión común , Xardín , Horta."
+,"WEB":" "
+,"id":85
+,"EMAIL":" "
+,"IMAGEN":"TR103.JPG"
+,"CAPACIDAD":"5 cuartos"
+,"OBJECTID":85
+,"DIRECCION":"Sabugos , Padornelo (San Xoán)"
+,"CATEGORIA":"Grupo-C (Casa de Labranza) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.11343753899996,42.7152382740001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR104"
+,"LOCALIDAD":"PEDRAFITA DO CEBREIRO"
+,"NOMBRE":"CASA FRADE"
+,"id_zona":5
+,"TELEFONO":"982367104"
+,"CP":"27670"
+,"id_categor":3
+,"x":660124.175
+,"y":4730203.169
+,"CARACTERISTICAS":"Comedor , Tarefas agropecuarias , Televisión común , Xardín , Horta."
+,"WEB":" "
+,"id":86
+,"EMAIL":" "
+,"IMAGEN":"TR104.JPG"
+,"CAPACIDAD":"5 cuartos"
+,"OBJECTID":86
+,"DIRECCION":"O Cebreiro , O Cebreiro (Santa María)"
+,"CATEGORIA":"Grupo-C (Casa de Labranza) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.04476315599993,42.7076413250001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR105"
+,"LOCALIDAD":"PEDRAFITA DO CEBREIRO"
+,"NOMBRE":"CASA GALEGO"
+,"id_zona":5
+,"TELEFONO":"982161461 / 679422891"
+,"CP":"27671"
+,"id_categor":3
+,"x":650967.099
+,"y":4732515.109
+,"CARACTERISTICAS":"Comedor , Tarefas agropecuarias , Televisión común , Xardín , Horta."
+,"WEB":" "
+,"id":87
+,"EMAIL":" "
+,"IMAGEN":"TR105.JPG"
+,"CAPACIDAD":"3 cuartos"
+,"OBJECTID":87
+,"DIRECCION":"Fonfría , Fonfría (San Xoán)"
+,"CATEGORIA":"Grupo-C (Casa de Labranza) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.15590349499996,42.7303046270001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR99"
+,"LOCALIDAD":"PEDRAFITA DO CEBREIRO"
+,"NOMBRE":"CASA JAIME"
+,"id_zona":5
+,"TELEFONO":"982367166"
+,"CP":"27670"
+,"id_categor":3
+,"x":657831.752
+,"y":4729238.786
+,"CARACTERISTICAS":"Admite tarxetas de crédito , Aparcadoiro , Comedor , Lavadora dispoñible-Lavandaría , Televisión común , Televisor nos cuartos."
+,"WEB":" "
+,"id":88
+,"EMAIL":" "
+,"IMAGEN":"TR99.JPG"
+,"CAPACIDAD":"4 cuartos"
+,"OBJECTID":88
+,"DIRECCION":"Liñares , Liñares (Santo Estevo)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Consultar"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.07300838199996,42.6994357660001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR106"
+,"LOCALIDAD":"PEDRAFITA DO CEBREIRO"
+,"NOMBRE":"CASA NÚÑEZ"
+,"id_zona":5
+,"TELEFONO":"982181271"
+,"CP":"27671"
+,"id_categor":3
+,"x":654275.126
+,"y":4727799.569
+,"CARACTERISTICAS":"Actividades de artesanía , Admite cans (consultar) , Aluguer de bicicletas , Aparcadoiro , Bar-Cafetería , Berces , Cabalos , Comedor , Grella , Lavadora dispoñible-Lavandaría , Prohibido fumar , Quads , Restaurante , Salón de reunións , Tarefas agropecuarias ,  Televisión común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":" "
+,"id":89
+,"EMAIL":" "
+,"IMAGEN":"TR106.JPG"
+,"CAPACIDAD":"2 cuartos"
+,"OBJECTID":89
+,"DIRECCION":"Fonfría , Fonfría (San Xoán)"
+,"CATEGORIA":"Grupo-C (Casa de Labranza) - Compartido"
+,"APERTURA":"Consultar"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.11680019399995,42.687203975]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR100"
+,"LOCALIDAD":"PEDRAFITA DO CEBREIRO"
+,"NOMBRE":"CASA TEIXEIRO"
+,"id_zona":5
+,"TELEFONO":"982151362"
+,"CP":"27673"
+,"id_categor":3
+,"x":650847.798
+,"y":4732629.171
+,"CARACTERISTICAS":"Aparcadoiro , Dereito a cociña , Lavadora dispoñible-Lavandaría , Tarefas agropecuarias , Televisión común , Xardín , Horta."
+,"WEB":" "
+,"id":90
+,"EMAIL":" "
+,"IMAGEN":"TR100.JPG"
+,"CAPACIDAD":"2 cuartos"
+,"OBJECTID":90
+,"DIRECCION":"Seixo , 26 , Pacios (San Lourenzo)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.15732964799992,42.7313547320001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR101"
+,"LOCALIDAD":"PEDRAFITA DO CEBREIRO"
+,"NOMBRE":"CASA VALIÑA"
+,"id_zona":5
+,"TELEFONO":"982367182 / 982367125"
+,"CP":"27671"
+,"id_categor":3
+,"x":660185.676
+,"y":4730215.819
+,"CARACTERISTICAS":"Admite tarxetas de crédito , Comedor , Televisión  común , Televisor nos cuartos."
+,"WEB":" "
+,"id":91
+,"EMAIL":" "
+,"IMAGEN":"TR101.JPG"
+,"CAPACIDAD":"5 cuartos"
+,"OBJECTID":91
+,"DIRECCION":"O Cebreiro , O Cebreiro (Santa María)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.04400903299995,42.7077423600001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR111"
+,"LOCALIDAD":"PORTOMARÍN"
+,"NOMBRE":"SANTA MARIÑA"
+,"id_zona":5
+,"TELEFONO":"982545105 / 690692861"
+,"CP":"27170"
+,"id_categor":3
+,"x":613781.829
+,"y":4740316.205
+,"CARACTERISTICAS":"Admite cans (consultar) , Admite tarxetas de crédito , Aluguer de bicicletas , Aparcadoiro , Bar-Cafetería , Cabalos , Comedor , Fálase francés , Quads , Tarefas agropecuarias , Televisión común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":"www.casaruralsantamaria.com"
+,"id":92
+,"EMAIL":" "
+,"IMAGEN":"TR111.JPG"
+,"CAPACIDAD":"3 cuartos"
+,"OBJECTID":92
+,"DIRECCION":"Santa Mariña, 1 , Portomarín (San Nicolao)"
+,"CATEGORIA":"Grupo-C (Casa de Labranza) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.60840645899992,42.8069488830001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR38"
+,"LOCALIDAD":"FOLGOSO DO COUREL"
+,"NOMBRE":"CASA A BOUZA"
+,"id_zona":4
+,"TELEFONO":"982185110 / 606605141"
+,"CP":"27324"
+,"id_categor":3
+,"x":648456.263
+,"y":4724571.477
+,"CARACTERISTICAS":"Admite cans (consultar) , Aparcadoiro , Berces , Comedor, Quads , Tarefas agropecuarias , Televisión  común."
+,"WEB":"www.abouzaturismorural.com"
+,"id":93
+,"EMAIL":" "
+,"IMAGEN":"TR38.JPG"
+,"CAPACIDAD":"6 cuartos"
+,"OBJECTID":93
+,"DIRECCION":"Paderne, 9 , Meiraos (Santa María)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.18863865799995,42.6592931690001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR40"
+,"LOCALIDAD":"FOLGOSO DO COUREL"
+,"NOMBRE":"CASA CALELLÓN"
+,"id_zona":4
+,"TELEFONO":"982185409 / 982185197"
+,"CP":"27325"
+,"id_categor":3
+,"x":645594.969
+,"y":4720511.576
+,"CARACTERISTICAS":"Bar-Cafetería , Comedor , Xardín , Horta."
+,"WEB":" "
+,"id":94
+,"EMAIL":" "
+,"IMAGEN":"TR40.JPG"
+,"CAPACIDAD":"3 cuartos"
+,"OBJECTID":94
+,"DIRECCION":"Seceda , Seceda (San Silvestre)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.22457336199994,42.623295311]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR39"
+,"LOCALIDAD":"FOLGOSO DO COUREL"
+,"NOMBRE":"CASA CARLOS"
+,"id_zona":4
+,"TELEFONO":"982155100"
+,"CP":"27325"
+,"id_categor":3
+,"x":645109.871
+,"y":4714523.992
+,"CARACTERISTICAS":"Televisión común."
+,"WEB":" "
+,"id":95
+,"EMAIL":" "
+,"IMAGEN":"TR39.JPG"
+,"CAPACIDAD":"6 cuartos"
+,"OBJECTID":95
+,"DIRECCION":"Vilamor , Vilamor (San Vicente)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.23201072899991,42.5694900060001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR41"
+,"LOCALIDAD":"FOLGOSO DO COUREL"
+,"NOMBRE":"CASA CASELO"
+,"id_zona":4
+,"TELEFONO":"982165768 / 636051274"
+,"CP":"27324"
+,"id_categor":3
+,"x":648485.273
+,"y":4724545.327
+,"CARACTERISTICAS":"(Distintivo Lugo2) Agricultura ecolóxica , Aparcadoiro , Comedor , Quads , Salón de reunións , Tarefas agropecuarias , Televisión común , Xardín , Horta."
+,"WEB":" "
+,"id":96
+,"EMAIL":" "
+,"IMAGEN":"TR41.JPG"
+,"CAPACIDAD":"5 cuartos"
+,"OBJECTID":96
+,"DIRECCION":"Paderne, 11 , Meiraos (Santa María)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.18829170499993,42.6590521940001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR49"
+,"LOCALIDAD":"FOLGOSO DO COUREL"
+,"NOMBRE":"CASA COMERCIANTE"
+,"id_zona":4
+,"TELEFONO":"982155100"
+,"CP":"27325"
+,"id_categor":3
+,"x":645072.92
+,"y":4714476.561
+,"CARACTERISTICAS":"Aluguer de bicicletas , Aparcadoiro , Comedor , Dereito a cociña."
+,"WEB":" "
+,"id":97
+,"EMAIL":" "
+,"IMAGEN":"TR49.JPG"
+,"CAPACIDAD":"2 cuartos"
+,"OBJECTID":97
+,"DIRECCION":"Vilamor , Vilamor (San Vicente)"
+,"CATEGORIA":"Grupo-C (Casa de Labranza) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.23247278199995,42.5690700010001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR42"
+,"LOCALIDAD":"FOLGOSO DO COUREL"
+,"NOMBRE":"CASA DA AIRA"
+,"id_zona":4
+,"TELEFONO":"696405222 / 982199673"
+,"CP":"27325"
+,"id_categor":3
+,"x":643460.933
+,"y":4712079.504
+,"CARACTERISTICAS":"(Distintivo Lugo2) Adaptado a minusválidos , Admite tarxetas de crédito , Aparcadoiro , Berces , Comedor , Prohibido fumar."
+,"WEB":"www.casadaaira.com"
+,"id":98
+,"EMAIL":"casadaaira@gmail.com"
+,"IMAGEN":"TR42.JPG"
+,"CAPACIDAD":"10 cuartos"
+,"OBJECTID":98
+,"DIRECCION":"Froxán, 27 , Vilamor (San Vicente)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.25270612699995,42.5477939040001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR43"
+,"LOCALIDAD":"FOLGOSO DO COUREL"
+,"NOMBRE":"CASA DE CHAOS"
+,"id_zona":4
+,"TELEFONO":"982185254 / 649162415"
+,"CP":"27324"
+,"id_categor":3
+,"x":648569.254
+,"y":4724556.576
+,"CARACTERISTICAS":"Admite cans (consultar) , Admite tarxetas de crédito , Comedor , Fálase francés , Prohibido fumar , Televisor nos cuartos , Xardín , Horta."
+,"WEB":"www.casachaos.com"
+,"id":99
+,"EMAIL":"info@casachaos.com"
+,"IMAGEN":"TR43.JPG"
+,"CAPACIDAD":"6 cuartos"
+,"OBJECTID":99
+,"DIRECCION":"Paderne, 24 , Meiraos (Santa María)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.18726458799995,42.6591372400001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR44"
+,"LOCALIDAD":"FOLGOSO DO COUREL"
+,"NOMBRE":"CASA DE RODRIGO"
+,"id_zona":4
+,"TELEFONO":"982185110"
+,"CP":"27324"
+,"id_categor":3
+,"x":648457.054
+,"y":4724614.718
+,"CARACTERISTICAS":"Aparcadoiro , Comedor, Dereito a cociña 3€ , Quads , Tarefas agropecuarias , Xardín , Horta."
+,"WEB":" "
+,"id":100
+,"EMAIL":" "
+,"IMAGEN":"TR44.JPG"
+,"CAPACIDAD":"3 cuartos"
+,"OBJECTID":100
+,"DIRECCION":"Paderne , Meiraos (Santa María)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - No Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.18861770999996,42.6596822340001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR45"
+,"LOCALIDAD":"FOLGOSO DO COUREL"
+,"NOMBRE":"CASA DOSINDA"
+,"id_zona":4
+,"TELEFONO":"982155100"
+,"CP":"27325"
+,"id_categor":3
+,"x":645066.72
+,"y":4714478.651
+,"CARACTERISTICAS":"Comedor."
+,"WEB":" "
+,"id":101
+,"EMAIL":" "
+,"IMAGEN":"TR45.JPG"
+,"CAPACIDAD":"3 cuartos"
+,"OBJECTID":101
+,"DIRECCION":"Vilamor, 1 / Vilamor (San Vicente)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo el ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.23254775399994,42.5690899790001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR46"
+,"LOCALIDAD":"FOLGOSO DO COUREL"
+,"NOMBRE":"CASA FERREIRO"
+,"id_zona":4
+,"TELEFONO":"982433065"
+,"CP":"27324"
+,"id_categor":3
+,"x":651651.381
+,"y":4722363.413
+,"CARACTERISTICAS":"Admite tarxetas de crédito , Comedor, Salón , Televisión común."
+,"WEB":" "
+,"id":102
+,"EMAIL":" "
+,"IMAGEN":"TR46.JPG"
+,"CAPACIDAD":"10 cuartos"
+,"OBJECTID":102
+,"DIRECCION":"Seoane do Courel, 24 , Seoane do Courel (San Xoán)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.15026278899995,42.638795567]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR47"
+,"LOCALIDAD":"FOLGOSO DO COUREL"
+,"NOMBRE":"CASA VALÍN"
+,"id_zona":4
+,"TELEFONO":"982155388 / 622628069"
+,"CP":"27324"
+,"id_categor":3
+,"x":651515.55
+,"y":4722471.765
+,"CARACTERISTICAS":"(Distintivo Lugo2) Dereito a cociña , Fálase inglés ,Internet-Wifi , Tarefas agropecuarias , Televisión común , Xardín , Horta."
+,"WEB":"www.casaruralvalin.com"
+,"id":103
+,"EMAIL":"info@casaruralvalín.com"
+,"IMAGEN":"TR47.JPG"
+,"CAPACIDAD":"2 cuartos"
+,"OBJECTID":103
+,"DIRECCION":"Nogaredo, 5 ,  Seoane do Courel , Seoane do Courel (San Xoán)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - No Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.15188984899993,42.6397975740001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR48"
+,"LOCALIDAD":"FOLGOSO DO COUREL"
+,"NOMBRE":"DEVESA DA ROGUEIRA"
+,"id_zona":4
+,"TELEFONO":"982155623"
+,"CP":"27324"
+,"id_categor":3
+,"x":654086.489
+,"y":4721175.197
+,"CARACTERISTICAS":"Admite cans (Consultar) , Aparcadoiro , Berces , Dereito a cociña 10 € , Lavadora dispoñible-Lavandaría , Televisión común."
+,"WEB":" "
+,"id":104
+,"EMAIL":" "
+,"IMAGEN":"TR48.JPG"
+,"CAPACIDAD":"3 cuartos"
+,"OBJECTID":104
+,"DIRECCION":"Moreda , Seoane do Courel"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - No Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.12089836699994,42.6276173240001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR63"
+,"LOCALIDAD":"LUGO"
+,"NOMBRE":"CASA DE BAIXO"
+,"id_zona":1
+,"TELEFONO":"982208213 / 677204449"
+,"CP":"27188"
+,"id_categor":3
+,"x":615695.212
+,"y":4755611.307
+,"CARACTERISTICAS":"Actividades de artesanía , Adaptado a minusválidos , Admite cans (consultar) , Agricultura ecolóxica , Bar-Cafetería , Berces , Comedor , Fálase francés , Fálase inglés , Fálase italiano , Prohibido fumar , Tarefas agropecuarias , Televisión  común , Xardín , Horta."
+,"WEB":"www.casadebaixo.com"
+,"id":105
+,"EMAIL":"reservas@casadebaixo.com"
+,"IMAGEN":"TR63.JPG"
+,"CAPACIDAD":"6 cuartos"
+,"OBJECTID":105
+,"DIRECCION":"Castro Alfonsín , Saa (Santiago)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.58186196199995,42.9443567490001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR62"
+,"LOCALIDAD":"LUGO"
+,"NOMBRE":"CASA DE PARDO"
+,"id_zona":1
+,"TELEFONO":"982207614 / 617403534"
+,"CP":"27210"
+,"id_categor":3
+,"x":615374.666
+,"y":4758261.449
+,"CARACTERISTICAS":"Adaptado a minusválidos , Admite cans (consultar) , Admite tarxetas de crédito , Aparcadoiro , Bar-Cafetería , Berces , Comedor , Fálase alemán , Fálase francés , Fálase inglés , Prohibido fumar , Salón de reunións , Televisión común , Xardín , Horta."
+,"WEB":"www.casapardo.com"
+,"id":106
+,"EMAIL":" "
+,"IMAGEN":"TR62.JPG"
+,"CAPACIDAD":"7 cuartos"
+,"OBJECTID":106
+,"DIRECCION":"Esperante , Esperante (Santalla)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o  ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.58524335799996,42.9682630180001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR17"
+,"LOCALIDAD":"CERVANTES"
+,"NOMBRE":"AIRA DE ANCARES"
+,"id_zona":3
+,"TELEFONO":"982364600"
+,"CP":"27665"
+,"id_categor":3
+,"x":658157.634
+,"y":4743281.167
+,"CARACTERISTICAS":"Aluguer de bicicletas , Aparcadoiro , Bar - Cafetería , Comedor , Lavadora dispoñible - Lavandaría , Prohibido fumar , Tarefas agropecuarias , Televisión común , Xardín , Horta."
+,"WEB":"www.galiciaenpie.com/airadeancares"
+,"id":107
+,"EMAIL":"airadeancares@hotmail.com"
+,"IMAGEN":"TR17.JPG"
+,"CAPACIDAD":"4 cuartos"
+,"OBJECTID":107
+,"DIRECCION":"San Martín das Cañadas , O Mosteiro (San Xoán)"
+,"CATEGORIA":"Grupo-C (Casa de Labranza) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.06510148999996,42.8257548560001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR18"
+,"LOCALIDAD":"CERVANTES"
+,"NOMBRE":"CANTINA MUSTALLAR"
+,"id_zona":3
+,"TELEFONO":"982151717"
+,"CP":"27667"
+,"id_categor":3
+,"x":673577.918
+,"y":4747015.902
+,"CARACTERISTICAS":"Admite tarxetas de crédito , Aparcadoiro , Bar-Cafetería , Comedor , Salón , Tarefas agropecuarias , Televisión  común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":" "
+,"id":108
+,"EMAIL":" "
+,"IMAGEN":"TR18.JPG"
+,"CAPACIDAD":"10 cuartos"
+,"OBJECTID":108
+,"DIRECCION":"Piornedo , Donís (San Fiz)"
+,"CATEGORIA":"Grupo-C (Casa de Labranza) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-6.87541907099995,42.856021964]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR19"
+,"LOCALIDAD":"CERVANTES"
+,"NOMBRE":"CASA CASOA"
+,"id_zona":3
+,"TELEFONO":"982151643"
+,"CP":"27664"
+,"id_categor":3
+,"x":673525.568
+,"y":4747107.923
+,"CARACTERISTICAS":"Agricultura ecolóxica , Comedor , Dereito a cociña 3,21 € , Prohibido fumar , Televisión común , Xardín , Horta."
+,"WEB":" "
+,"id":109
+,"EMAIL":" "
+,"IMAGEN":"TR19.JPG"
+,"CAPACIDAD":"2 cuartos"
+,"OBJECTID":109
+,"DIRECCION":"Piornedo , Donís (San Fiz)"
+,"CATEGORIA":"Grupo-C (Casa de Labranza) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-6.87603100899992,42.856861957]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR20"
+,"LOCALIDAD":"CERVANTES"
+,"NOMBRE":"CASA CERREDO"
+,"id_zona":3
+,"TELEFONO":"982161834"
+,"CP":" 27666"
+,"id_categor":3
+,"x":668968.01
+,"y":4737729.004
+,"CARACTERISTICAS":"Comedor , Televisión común , Xardín , Horta."
+,"WEB":" "
+,"id":110
+,"EMAIL":" "
+,"IMAGEN":"TR20.JPG"
+,"CAPACIDAD":"3 cuartos"
+,"OBJECTID":110
+,"DIRECCION":"Airoá , Cereixido (Santiago)"
+,"CATEGORIA":"Grupo-C (Casa de Labranza) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-6.93459202099996,42.7734773080001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR21"
+,"LOCALIDAD":"CERVANTES"
+,"NOMBRE":"CASA DO CANTO"
+,"id_zona":3
+,"TELEFONO":"699565147"
+,"CP":"27664"
+,"id_categor":3
+,"x":665395.501
+,"y":4740350.358
+,"CARACTERISTICAS":"Televisión común , Televisor nos cuartos."
+,"WEB":" "
+,"id":111
+,"EMAIL":" "
+,"IMAGEN":"TR21.JPG"
+,"CAPACIDAD":"3 cuartos"
+,"OBJECTID":111
+,"DIRECCION":"Folgoso , Cereixido (Santiago)"
+,"CATEGORIA":"Grupo-C (Casa de Labranza) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-6.97746618499991,42.7978480990001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR16"
+,"LOCALIDAD":"CERVANTES"
+,"NOMBRE":"CASA O CREGO"
+,"id_zona":3
+,"TELEFONO":"982161771 / 699893252"
+,"CP":" 27654"
+,"id_categor":3
+,"x":666844.681
+,"y":4752023.175
+,"CARACTERISTICAS":"Actividades de artesanía , Adaptado a minusválidos , Admite cans (consultar) , Berces , Comedor , Fálase francés , Internet-Wifi , Lavadora dispoñible-Lavandaría , Xardín , Horta."
+,"WEB":"www.ocrego.es"
+,"id":112
+,"EMAIL":"info@ocrego.es"
+,"IMAGEN":"TR16.JPG"
+,"CAPACIDAD":"7 cuartos"
+,"OBJECTID":112
+,"DIRECCION":"Vilaquinte, 4 , Vilaquinte (San Breixo)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-6.95629391699993,42.9025844610001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR15"
+,"LOCALIDAD":"CERVANTES"
+,"NOMBRE":"CASA SOLARIEGA DE CERVANTES"
+,"id_zona":3
+,"TELEFONO":"982364915 / 636310106"
+,"CP":"27664"
+,"id_categor":3
+,"x":658198.709
+,"y":4748406.599
+,"CARACTERISTICAS":"(Distintivo Lugo2) Adaptado a minusválidos , Admite cans (consultar) , Admite tarxetas de crédito , Agricultura ecolóxica , Aluguer de bicicletas , Berces , Comedor , Fálase  francés , Fálase inglés , Fálase italiano , Prohibido fumar , Televisor nos cuartos , Xardín , Horta."
+,"WEB":"www.casasolariegodecervantes.com"
+,"id":113
+,"EMAIL":"reservas@casasolariegodecervantes.com"
+,"IMAGEN":"TR15.JPG"
+,"CAPACIDAD":"5 cuartos"
+,"OBJECTID":113
+,"DIRECCION":"San Román , San Román de Cervantes (San Román)"
+,"CATEGORIA":"Grupo-A (Casa Grande) - Compartido"
+,"APERTURA":"Aberto todo o ano, excepto navidades"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.06315798899993,42.871876167]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR14"
+,"LOCALIDAD":"CASTROVERDE"
+,"NOMBRE":"LONGARELA CASA RURAL"
+,"id_zona":1
+,"TELEFONO":"982311206 / 982311207"
+,"CP":"27128"
+,"id_categor":3
+,"x":636478.889
+,"y":4769377.828
+,"CARACTERISTICAS":"(Distintivo Lugo2) Adaptado a minusválidos , Admite cans (consultar) , Admite tarxetas de crédito , Aluguer de bicicletas , Aparcadoiro , Bar-Cafetería , Berces , Comedor , Grella , Salón , Salón de reunións , Televisión  común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":"www.longarelacr.com"
+,"id":114
+,"EMAIL":"info@longarelacr.com"
+,"IMAGEN":"TR14.JPG"
+,"CAPACIDAD":"10 cuartos"
+,"OBJECTID":114
+,"DIRECCION":"Os Vilares, 2 , Montecubeiro (San Cibrao)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.32383712799992,43.0648335370001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR13"
+,"LOCALIDAD":"CASTROVERDE"
+,"NOMBRE":"PAZO DE VILABADE"
+,"id_zona":1
+,"TELEFONO":"982313000 / 637776737"
+,"CP":"27122"
+,"id_categor":3
+,"x":638438.468
+,"y":4766166.643
+,"CARACTERISTICAS":"Adaptado aminusválidos , Admite tarxetas de crédito , Aluguer de bicicletas , Aparcadoiro , Berces , Comedor , Fálase francés , Fálase inglés , Salón de reunións , Televisión  común , Televisor nos cuartos , Xardín ,  Horta."
+,"WEB":"www.elpazo.com"
+,"id":115
+,"EMAIL":" "
+,"IMAGEN":"TR13.JPG"
+,"CAPACIDAD":"6 cuartos"
+,"OBJECTID":115
+,"DIRECCION":"Vilabade , Vilabade (Santa María)"
+,"CATEGORIA":"Grupo-A (Pazo) - Compartido"
+,"APERTURA":"Consultar"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.30057929699996,43.0355745590001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR33"
+,"LOCALIDAD":"COSPEITO"
+,"NOMBRE":"PAZO DE VERDES"
+,"id_zona":1
+,"TELEFONO":"982520030"
+,"CP":"27377"
+,"id_categor":3
+,"x":616652.852
+,"y":4788287.32
+,"CARACTERISTICAS":"(Distintivo Lugo2) Adaptado a minusválidos , Admite tarxetas de crédito , Aparcadoiro , Berces , Comedor , Salón de reunións , Televisor nos cuartos."
+,"WEB":"www.pazo.com"
+,"id":116
+,"EMAIL":"info@pazo.com"
+,"IMAGEN":"TR33.JPG"
+,"CAPACIDAD":"8 cuartos"
+,"OBJECTID":116
+,"DIRECCION":"A Feira do Monte, 85 , Sistallo"
+,"CATEGORIA":"Grupo-A (Pazo) - Non Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.56326654599991,43.2383642520001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR37"
+,"LOCALIDAD":"COSPEITO"
+,"NOMBRE":"CASA BEIRAMIÑO"
+,"id_zona":1
+,"TELEFONO":"982504743"
+,"CP":"27284"
+,"id_categor":3
+,"x":623692.657
+,"y":4782062.783
+,"CARACTERISTICAS":"(Distintivo Lugo2) Adaptado a minusválidos , Aparcadoiro , Comedor , Tarefas agropecuarias , Televisión  común , Xardín , Horta."
+,"WEB":" "
+,"id":117
+,"EMAIL":" "
+,"IMAGEN":"TR37.JPG"
+,"CAPACIDAD":"3 cuartos"
+,"OBJECTID":117
+,"DIRECCION":"A Escanabada , Xustás (Santiago)"
+,"CATEGORIA":"Grupo-C (Casa De Labranza) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.47798542099991,43.181211987]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR34"
+,"LOCALIDAD":"COSPEITO"
+,"NOMBRE":"CASA CONDIÑO"
+,"id_zona":1
+,"TELEFONO":"982505002"
+,"CP":"27375"
+,"id_categor":3
+,"x":613765.281
+,"y":4787949.366
+,"CARACTERISTICAS":"(Distintivo Lugo2) Adaptado a minusválidos , Admite cans (consultar) , Aparcadoiro , Berces , Comedor , Grella , Lavadora dispoñible-Lavandaría , Parque infantil , Televisión común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":" "
+,"id":119
+,"EMAIL":" "
+,"IMAGEN":"TR34.JPG"
+,"CAPACIDAD":"6 cuartos"
+,"OBJECTID":118
+,"DIRECCION":"As Carballas , Seixas (San Pedro)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.59888994199991,43.2357630660001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR35"
+,"LOCALIDAD":"COSPEITO"
+,"NOMBRE":"CASA DO PACIO"
+,"id_zona":1
+,"TELEFONO":"617403572"
+,"CP":"27375"
+,"id_categor":3
+,"x":618808.52
+,"y":4789653.789
+,"CARACTERISTICAS":"Adaptado a minusválidos , Admite cans ( consultar ) , Admite tarxetas de crédito , Aluguer de bicicletas , Aparcadoiro , Berces , Comedor , Fálase inglés , Fálase italiano , Parque Infantil , Prohibido fumar , Salón de reunións , Televisión común , Xardín , Horta."
+,"WEB":"www.casadopacio.com"
+,"id":120
+,"EMAIL":"info@casadopacio.com"
+,"IMAGEN":"TR35.JPG"
+,"CAPACIDAD":"7 cuartos"
+,"OBJECTID":119
+,"DIRECCION":"O Pacio , Santa Cristina (San Xiao)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.53643057199992,43.250328397]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR32"
+,"LOCALIDAD":"COSPEITO"
+,"NOMBRE":"CASA GRANDE DE ANLLO"
+,"id_zona":1
+,"TELEFONO":"982520078"
+,"CP":"27377"
+,"id_categor":3
+,"x":615970.579
+,"y":4788993.824
+,"CARACTERISTICAS":"(Distintivo Lugo2) Admite tarxetas de crédito , Aluguer de bicicletas , Aparcadoiro , Berces , Comedor , Prohibido fumar , Salón de reunións , Televisión común , Xardín , Horta."
+,"WEB":" "
+,"id":121
+,"EMAIL":" "
+,"IMAGEN":"TR32.JPG"
+,"CAPACIDAD":"7 cuartos"
+,"OBJECTID":120
+,"DIRECCION":"O Barreiro , Sistallo (San Xoán)"
+,"CATEGORIA":"Grupo-A (Casa Grande) - Non Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.57151845899995,43.244829349]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR36"
+,"LOCALIDAD":"COSPEITO"
+,"NOMBRE":"LUGAR DE VILA"
+,"id_zona":1
+,"TELEFONO":"982503070 / 982520076"
+,"CP":"27337"
+,"id_categor":3
+,"x":615930.408
+,"y":4789216.034
+,"CARACTERISTICAS":"Admite cans (consultar) , Aluguer de bicicletas , Aparcadoiro , Berces , Comedor , Fálase francés , Televisión común , Xardín , Horta."
+,"WEB":" "
+,"id":122
+,"EMAIL":" "
+,"IMAGEN":"TR36.JPG"
+,"CAPACIDAD":"3 cuartos"
+,"OBJECTID":121
+,"DIRECCION":"O Palacio , Sistallo (San Xoán)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.57196638499994,43.246835838]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR12"
+,"LOCALIDAD":"CARBALLEDO"
+,"NOMBRE":"MUIÑO DO VAO"
+,"id_zona":5
+,"TELEFONO":"982401863"
+,"CP":"27528"
+,"id_categor":3
+,"x":603963.666
+,"y":4701113.507
+,"CARACTERISTICAS":"Aparcadoiro , Comedor , Dereito a cociña , Lavadora dispoñible-Lavandaría , Televisión común , Xardín , Horta."
+,"WEB":"www.molinodelvao.com"
+,"id":123
+,"EMAIL":" "
+,"IMAGEN":"TR12.JPG"
+,"CAPACIDAD":"3 cuartos"
+,"OBJECTID":122
+,"DIRECCION":"A Granxa , Oleiros (San Miguel)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.73562168399991,42.4553850760001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR24"
+,"LOCALIDAD":"CERVO"
+,"NOMBRE":"CASA DO MUDO"
+,"id_zona":5
+,"TELEFONO":"692496878 / 982557689"
+,"CP":"27891"
+,"id_categor":3
+,"x":627766.106
+,"y":4835266.014
+,"CARACTERISTICAS":"Admite tarxetas de crédito , Aluguer de bicicletas , Berces , Comedor , internet , Wifi , Prohibido fumar , Televisión común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":"www.casadomudo.com"
+,"id":124
+,"EMAIL":"informacion@casadomudo.com"
+,"IMAGEN":"TR24.JPG"
+,"CAPACIDAD":"6 cuartos"
+,"OBJECTID":123
+,"DIRECCION":"A Senra, 25 , Cervo (Santa María)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.41543792699991,43.6594168330001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR22"
+,"LOCALIDAD":"CERVO"
+,"NOMBRE":"O ALMACÉN"
+,"id_zona":5
+,"TELEFONO":"982557836"
+,"CP":"27891"
+,"id_categor":3
+,"x":628386.038
+,"y":4836394.086
+,"CARACTERISTICAS":"Admite tarxetas de crédito , Aluguer de bicicletas , Aparcadoiro , Bar-Cafetería , Cabalos , Lavadora dispoñible-Lavandaría , Salón de reunións , Televisor nos cuartos , Xardín , Horta."
+,"WEB":" "
+,"id":126
+,"EMAIL":" "
+,"IMAGEN":"TR22.JPG"
+,"CAPACIDAD":"7 cuartos"
+,"OBJECTID":124
+,"DIRECCION":"Estr. De Sargadelos, 2 , Cervo , Cervo (Santa María)"
+,"CATEGORIA":"Grupo-A (Pazo) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.40748396899994,43.6694632910001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR27"
+,"LOCALIDAD":"CHANTADA"
+,"NOMBRE":"CASA DAS XACIAS"
+,"id_zona":5
+,"TELEFONO":"616817642"
+,"CP":"27516"
+,"id_categor":3
+,"x":603265.27
+,"y":4720874.772
+,"CARACTERISTICAS":"Adaptado a minusválidos , Admite cans (consultar) , Aparcadoiro , Dereito a cociña , Fálase francés , Fálase inglés , Fálase italiano , Grella , Lavadora dispoñible-Lavandaría , Televisión común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":"www.asxacias.com"
+,"id":127
+,"EMAIL":"casadasxacias@telefonica.net"
+,"IMAGEN":"TR27.JPG"
+,"CAPACIDAD":"6 cuartos"
+,"OBJECTID":125
+,"DIRECCION":"A Airoá , Pesqueiras (Santa María)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.74054156799991,42.6334016800001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR28"
+,"LOCALIDAD":"CHANTADA"
+,"NOMBRE":"CASA DO NETO"
+,"id_zona":5
+,"TELEFONO":"629414156"
+,"CP":"27512"
+,"id_categor":3
+,"x":596484.344
+,"y":4717611.386
+,"CARACTERISTICAS":"Admite cans (consultar) , Aluguer de bicicletas , Aparcadoiro , Berces , Comedor , Dereito a cociña , Grella, Lavadora dispoñible-Lavandaría , Televisión común , Xardín , Horta."
+,"WEB":"www.casadoneto.com"
+,"id":128
+,"EMAIL":" "
+,"IMAGEN":"TR28.JPG"
+,"CAPACIDAD":"5 cuartos"
+,"OBJECTID":126
+,"DIRECCION":"A Moreira, 4 , O Mato (San Xillao)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.82377970899995,42.6048981200001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR29"
+,"LOCALIDAD":"CHANTADA"
+,"NOMBRE":"CASA DO PORTOMEÑE"
+,"id_zona":5
+,"TELEFONO":"657930190"
+,"CP":"27511"
+,"id_categor":3
+,"x":593300.445
+,"y":4725946.288
+,"CARACTERISTICAS":"Adaptado a minusválidos , Aparcadoiro , Comedor , Salón de reunións , Televisión  común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":"www.casadoportomene.com"
+,"id":129
+,"EMAIL":" "
+,"IMAGEN":"TR29.JPG"
+,"CAPACIDAD":"10 cuartos"
+,"OBJECTID":127
+,"DIRECCION":"Surribas  , Adá (Santa Baia)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non Compartido"
+,"APERTURA":"Consultar"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.86121836999996,42.6803364]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR25"
+,"LOCALIDAD":"CHANTADA"
+,"NOMBRE":"PAZO AS CASAS"
+,"id_zona":5
+,"TELEFONO":"982440553"
+,"CP":"27517"
+,"id_categor":3
+,"x":594067.42
+,"y":4716657.961
+,"CARACTERISTICAS":"Admite cans (consultar) , Admite tarxetas de crédito , Aluguer de bicicletas , Aparcadoiro , Bar-Cafetería , Berces , Comedor , Grella , Parque infantil , Salón de reunións , Televisión común , Televisor nos cuartos , Xardin , Horta."
+,"WEB":"www.disfrutagalicia.com"
+,"id":130
+,"EMAIL":"info@disfrutagalicia.com"
+,"IMAGEN":"TR25.JPG"
+,"CAPACIDAD":"10 cuartos"
+,"OBJECTID":128
+,"DIRECCION":"San Pedro , San Pedro de Viana (San Pedro)"
+,"CATEGORIA":"Grupo-A (Pazo) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.85339553699993,42.5966122360001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR26"
+,"LOCALIDAD":"CHANTADA"
+,"NOMBRE":"PAZO DO PIÑEIRO"
+,"id_zona":5
+,"TELEFONO":"982440642 / 686954560"
+,"CP":"27516"
+,"id_categor":3
+,"x":603407.195
+,"y":4719926.102
+,"CARACTERISTICAS":"Adaptado a minusválidos , Admite cans (consultar) , Admite tarxetas de crédito , Aluguer de bicicletas , Aparcadoiro , Bar-Cafetería , Berces , Comedor , Lavadora dispoñible-Lavandaría , Restaurante , Salón de reunións , Televisión  común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":"www.pazodopineiro.com"
+,"id":131
+,"EMAIL":"info@pazodopineiro.com"
+,"IMAGEN":"TR26.JPG"
+,"CAPACIDAD":"11 cuartos"
+,"OBJECTID":129
+,"DIRECCION":"Soilán , Pesqueiras (Santa María)"
+,"CATEGORIA":"Grupo-A (Pazo) - Compartido"
+,"APERTURA":"Consultar"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.73898345899994,42.624841298]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR53"
+,"LOCALIDAD":"FONSAGRADA (A)"
+,"NOMBRE":"O VENTORRILLO"
+,"id_zona":2
+,"TELEFONO":"982184048"
+,"CP":"27112"
+,"id_categor":3
+,"x":657129.463
+,"y":4789879.154
+,"CARACTERISTICAS":"Adaptado aminusválidos , Aparcadoiro , Bar-Cafetería , Berces , Comedor , Fisioterapia,Terapias Alterna. , Grella , Internet , Wifi , Tarefas agropecuarias , Televisión común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":"www.oventorrillo.com"
+,"id":132
+,"EMAIL":" "
+,"IMAGEN":"TR53.JPG"
+,"CAPACIDAD":"6 cuartos"
+,"OBJECTID":130
+,"DIRECCION":"O Ventorrillo  , A Veiga de Logares (Santa María)"
+,"CATEGORIA":"Grupo-C (Casa de Labranza) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.06453316699992,43.2453449290001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR51"
+,"LOCALIDAD":"FONSAGRADA (A)"
+,"NOMBRE":"CABO"
+,"id_zona":2
+,"TELEFONO":"982154784 / 646486908"
+,"CP":"27112"
+,"id_categor":3
+,"x":656152.371
+,"y":4790289.065
+,"CARACTERISTICAS":"Adaptado a minusválidos , Comedor , Dereito a cociña , Lavadora dispoñible-Lavandaría , Televisión  común , Xardín , Horta."
+,"WEB":"www.casadocabo.com"
+,"id":133
+,"EMAIL":" "
+,"IMAGEN":"TR51.JPG"
+,"CAPACIDAD":"4 cuartos"
+,"OBJECTID":131
+,"DIRECCION":"Braña, 5 , A Veiga de Logares (Santa María)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.07644585799994,43.2492369280001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR50"
+,"LOCALIDAD":"FONSAGRADA (A)"
+,"NOMBRE":"APARTAMENTOS VILARCHAO"
+,"id_zona":2
+,"TELEFONO":"982154496 / 606864949"
+,"CP":"27113"
+,"id_categor":3
+,"x":661401.205
+,"y":4785710.071
+,"CARACTERISTICAS":"Admite cans (consultar) , Aparcadoiro , Berces , Dereito a cociña , Grella , Lavadora dispoñible-Lavandaría , Parque infantil , Televisor nos cuartos , Xardín , Horta."
+,"WEB":"www.apaetamentosvilarchao.com"
+,"id":134
+,"EMAIL":" "
+,"IMAGEN":"TR50.JPG"
+,"CAPACIDAD":"5 cuartos"
+,"OBJECTID":132
+,"DIRECCION":"Vilarchao , Lamas de Campo (San Roque)"
+,"CATEGORIA":"Grupo-B (Casa deAldea) - Non Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.01316532699991,43.2069239210001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR52"
+,"LOCALIDAD":"FONSAGRADA (A"
+,"NOMBRE":"CASA DA FONTE"
+,"id_zona":2
+,"TELEFONO":"982354054"
+,"CP":"27134"
+,"id_categor":3
+,"x":650628.701
+,"y":4765808.602
+,"CARACTERISTICAS":"Admite cans (consultar) , Aluguer de bicicletas , Bar-Cafetería , Comedor , Tarefas agropecuarias , Televisión común , Xardín , Horta."
+,"WEB":" "
+,"id":135
+,"EMAIL":" "
+,"IMAGEN":"TR52.JPG"
+,"CAPACIDAD":"7 cuartos"
+,"OBJECTID":133
+,"DIRECCION":"Freixo , Freixo (San Xulián)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.15110631299996,43.0300326810001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR153"
+,"LOCALIDAD":"FONSAGRADAD (A)"
+,"NOMBRE":"MUÍÑOS DE ROSARIO"
+,"id_zona":2
+,"TELEFONO":"629758265"
+,"CP":"27111"
+,"id_categor":3
+,"x":656073.712
+,"y":4779928.288
+,"CARACTERISTICAS":"Comedor , Dereito a cociña , Salón , Xardín , Horta."
+,"WEB":"www.losmolinosderosario.com"
+,"id":136
+,"EMAIL":"info@losmolinosderosario.com"
+,"IMAGEN":"TR153.JPG"
+,"CAPACIDAD":"5 cuartos"
+,"OBJECTID":134
+,"DIRECCION":"San Pedro de Neiro (San Pedro)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non Compartido"
+,"APERTURA":"Consultar"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.08034111599994,43.156009333]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR98"
+,"LOCALIDAD":"PASTORIZA (A)"
+,"NOMBRE":"CAMPO DA CRUZ"
+,"id_zona":1
+,"TELEFONO":"982330327 / 686970528"
+,"CP":"27246"
+,"id_categor":3
+,"x":633592.868
+,"y":4789279.639
+,"CARACTERISTICAS":"Adaptado a minusválidos , Admite cans (consultar) , Aluguer de bicicletas , Aparcadoiro , Berces , Cabalos , Dereito a cociña , Grella , Lavadora dispoñible-Lavandaría , Parque infantil , Tarefas agropecuarias , Televisión común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":" "
+,"id":137
+,"EMAIL":" "
+,"IMAGEN":"TR98.JPG"
+,"CAPACIDAD":"6 cuartos"
+,"OBJECTID":135
+,"DIRECCION":"Baltar, 15 , Baltar (San Pedro Fiz)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.35446654699996,43.2444860350001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR1"
+,"LOCALIDAD":"ALFOZ"
+,"NOMBRE":"FINCA A GALEA"
+,"id_zona":1
+,"TELEFONO":"982558323"
+,"CP":"27773"
+,"id_categor":3
+,"x":628509.721
+,"y":4821202.659
+,"CARACTERISTICAS":"(Distintivo Lugo2) Admite cans (consultar) / Admite tarxetas de crédito / Aparcadoiro / Berces / Parque infantil / Televisión común / Televisor nos cuartos / Xardín / Horta."
+,"WEB":" "
+,"id":138
+,"EMAIL":" "
+,"IMAGEN":"TR1.JPG"
+,"CAPACIDAD":"5 cuartos"
+,"OBJECTID":136
+,"DIRECCION":"O Castro de Ouro , O Castro de Ouro (San Salvador)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.40955719999994,43.5327090760001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR110"
+,"LOCALIDAD":"PONTENOVA (A)"
+,"NOMBRE":"CASA DO FIDALGO"
+,"id_zona":2
+,"TELEFONO":"982338045"
+,"CP":" 27722"
+,"id_categor":3
+,"x":649231.761
+,"y":4797421.81
+,"CARACTERISTICAS":"(Distintivo Lugo2) Adaptado a minusválidos , Admite tarxetas de crédito , Aparcadoiro , Bar-Cafetería , Berces , Cabalos , Comedor , Internet,Wifi , Televisión común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":"www.casadofidalgo.es"
+,"id":139
+,"EMAIL":"contacto@casadofidalgo.es"
+,"IMAGEN":"TR110.JPG"
+,"CAPACIDAD":"9 cuartos"
+,"OBJECTID":137
+,"DIRECCION":"O Machuco, 1 , Bogo (San Pedro)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.15971838699994,43.3148331140001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR108"
+,"LOCALIDAD":"POBRA DE BROLLÓN (A)"
+,"NOMBRE":"A SALANOVA"
+,"id_zona":5
+,"TELEFONO":"982430501 / 982430202"
+,"CP":"27338"
+,"id_categor":3
+,"x":636335.36
+,"y":4711657.768
+,"CARACTERISTICAS":"Admite tarxetas de crédito , Aparcadoiro , Bar-Cafetería , Berces , Comedor , Internet-Wifi , Parque infantil , Piscina , Televisión  común."
+,"WEB":"www.turismoruralensalcedo.net"
+,"id":140
+,"EMAIL":"salcedorural@yahoo.es"
+,"IMAGEN":"TR108.JPG"
+,"CAPACIDAD":"7 cuartos"
+,"OBJECTID":138
+,"DIRECCION":"Salcedo , Salcedo (San Xoán)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.33955687499991,42.545287724]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR109"
+,"LOCALIDAD":"POBRA DE BROLLÓN (A)"
+,"NOMBRE":"A SALANOVA 2"
+,"id_zona":5
+,"TELEFONO":"982430501 / 982430202"
+,"CP":"27338"
+,"id_categor":3
+,"x":636287.4
+,"y":4711656.398
+,"CARACTERISTICAS":"Admite tarxetas de crédito , Aparcadoiro , Bar-Cafetería , Berces , Comedor , Parque infantil , Piscina , Televisión común."
+,"WEB":"www.turismoruralensalcedo.net"
+,"id":141
+,"EMAIL":"salcedorural@yahoo.es"
+,"IMAGEN":"TR109.JPG"
+,"CAPACIDAD":"3 cuartos"
+,"OBJECTID":139
+,"DIRECCION":"Salcedo , Salcedo (San Xoán)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.34014107299993,42.5452838520001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR2"
+,"LOCALIDAD":"ANTAS DE ULLA"
+,"NOMBRE":"LUGAR DE MARÍA MERCEDES"
+,"id_zona":5
+,"TELEFONO":"669865021 / 663865021"
+,"CP":" 27570"
+,"id_categor":3
+,"x":588327.808
+,"y":4739878.681
+,"CARACTERISTICAS":"Adaptado a minusválidos , Admite tarxetas de crédito ,  Aluguer de bicicletas , Aparcadoiro , Bar-Cafetería , Comedor ,  Lavadora dispoñible-Lavandaría , Prohibido fumar , Tarefas agropecuarias , Televisión común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":"www.lugardemariamercedes.com"
+,"id":142
+,"EMAIL":"lugardemariamercedes@yahoo.esç"
+,"IMAGEN":"TR2.JPG"
+,"CAPACIDAD":"10 cuartos"
+,"OBJECTID":140
+,"DIRECCION":"Barreiro, 8 , Barreiro (San Cibrao)"
+,"CATEGORIA":"Grupo-C (Casa de Labranza) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.91972525899996,42.8063694670001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR76"
+,"LOCALIDAD":"NOGAIS (AS)"
+,"NOMBRE":"A LAREIRA"
+,"id_zona":5
+,"TELEFONO":"982151151"
+,"CP":"27677"
+,"id_categor":3
+,"x":653571.394
+,"y":4738537.272
+,"CARACTERISTICAS":"Adaptado a minusválidos , Aluguer de bicicletas , Aparcadoiro , Comedor , Fálase francés , Fálase inglés , Grella , Lavadora dispoñible-Lavandaría , Prohibido fumar , Tarefas agropecuarias , Televisión común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":" "
+,"id":143
+,"EMAIL":"editafreijo@gmail.com"
+,"IMAGEN":"TR76.JPG"
+,"CAPACIDAD":"7 cuartos"
+,"OBJECTID":141
+,"DIRECCION":"Chan de Vilar , Nullán (San Cosmede)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.12247171699994,42.7839913910001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR79"
+,"LOCALIDAD":"NOGAIS (AS)"
+,"NOMBRE":"O CARRO"
+,"id_zona":5
+,"TELEFONO":"982362668 / 661092822"
+,"CP":"27677"
+,"id_categor":3
+,"x":650317.3
+,"y":4738728.432
+,"CARACTERISTICAS":"Aluguer de bicicletas , Aparcadoiro , Bar-Cafetería , Comedor , Parque infantil , Prohibido fumar , Televisión común , Televisor nos cuartos , Xardín-Horta."
+,"WEB":" "
+,"id":144
+,"EMAIL":" "
+,"IMAGEN":"TR79.JPG"
+,"CAPACIDAD":"3 cuartos"
+,"OBJECTID":142
+,"DIRECCION":"Torés, 13 , Torés (San Xoán)"
+,"CATEGORIA":"Grupo-C (Casa de Labranza) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.16218442399992,42.7863572250001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR78"
+,"LOCALIDAD":"NOGAIS (AS)"
+,"NOMBRE":"CASA LOURDES"
+,"id_zona":5
+,"TELEFONO":"982151268"
+,"CP":"27677"
+,"id_categor":3
+,"x":657781.207
+,"y":4740254.466
+,"CARACTERISTICAS":"Aluguer de bicicletas , Aparcadoiro , Comedor , Dereito a cociña , Lavadora dispoñible-Lavandaría , Prohibido fumar, Tarefas agropecuarias , Televisión común , Xardín , Horta"
+,"WEB":" "
+,"id":145
+,"EMAIL":" "
+,"IMAGEN":"TR78.JPG"
+,"CAPACIDAD":"4 cuartos"
+,"OBJECTID":143
+,"DIRECCION":"A Lagúa , Santo André (Santo André)"
+,"CATEGORIA":"Grupo-C (Casa de Labranza) - Compartido"
+,"APERTURA":"Consultar"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.07055141599994,42.7985914430001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR77"
+,"LOCALIDAD":"AS NOGAIS"
+,"NOMBRE":"CASA DOS PEDROUZOS"
+,"id_zona":5
+,"TELEFONO":"609735579 / 982151061"
+,"CP":"27675"
+,"id_categor":3
+,"x":655818.891
+,"y":4738238.927
+,"CARACTERISTICAS":"Admite cans (consultar) , Berces , Comedor , Dereito a cociña 12,84 € , Grella , Lavadora dispoñible-Lavandaría , Televisión común , Xardín , Horta."
+,"WEB":" "
+,"id":146
+,"EMAIL":" "
+,"IMAGEN":"TR77.JPG"
+,"CAPACIDAD":"3 cuartos"
+,"OBJECTID":144
+,"DIRECCION":"Doncos , Doncos (Santiago)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.09509140099993,42.7808524490001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR9"
+,"LOCALIDAD":"BÓVEDA"
+,"NOMBRE":"KASERNA ARABE"
+,"id_zona":5
+,"TELEFONO":"982426153 / 662022932"
+,"CP":"27349"
+,"id_categor":3
+,"x":624827.008
+,"y":4720412.24
+,"CARACTERISTICAS":"Aparcadoiro , Comedor , Internet-Wifi , Lavadora dispoñible-Lavandaría , Parque infantil , Prohibido fumar , Salón de reunións , Tarefas agropecuarias , Televisión  común , Tenis , Xardín , Horta."
+,"WEB":"www.kasernaarabe-anexospalacio.com"
+,"id":147
+,"EMAIL":" "
+,"IMAGEN":"TR9.JPG"
+,"CAPACIDAD":"10 cuartos"
+,"OBJECTID":145
+,"DIRECCION":"Bóveda ( Santa Martiño)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.47775133499994,42.6260454370001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR10"
+,"LOCALIDAD":"BÓVEDA"
+,"NOMBRE":"O REFUXIO DA CORUXA"
+,"id_zona":5
+,"TELEFONO":"982420202 / 628600441"
+,"CP":"27349"
+,"id_categor":3
+,"x":625453.691
+,"y":4717797.879
+,"CARACTERISTICAS":"Aparcadoiro , Comedor , Prohibido fumar , Televisión común , Xardín , Horta."
+,"WEB":" "
+,"id":148
+,"EMAIL":"orefuxiodacoruxa@hotmail.com"
+,"IMAGEN":"TR10.JPG"
+,"CAPACIDAD":"6 cuartos"
+,"OBJECTID":146
+,"DIRECCION":"Rúa da Veiga, 3  , Ribas Pequenas (Santiago)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.47068776099991,42.602407907]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR11"
+,"LOCALIDAD":"BÓVEDA"
+,"NOMBRE":"PENACOBA"
+,"id_zona":5
+,"TELEFONO":"982424253"
+,"CP":"27359"
+,"id_categor":3
+,"x":622130.602
+,"y":4725108.363
+,"CARACTERISTICAS":"Aluguer de bicicletas , Aparcadoiro , Cabalos , Comedor ,  Lavadora dispoñible-Lavandaría , Parque infantil , Tarefas agropecuarias , Televisión  común , Xardín , Horta."
+,"WEB":"www.casapenacoba.com"
+,"id":149
+,"EMAIL":"reservas@casapenacoba.com"
+,"IMAGEN":"TR11.JPG"
+,"CAPACIDAD":"5 cuartos"
+,"OBJECTID":147
+,"DIRECCION":"Penacova , Remesar (San Xoán)"
+,"CATEGORIA":"Grupo-C (Casa de Labranza) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.50961356499994,42.6687548780001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR3"
+,"LOCALIDAD":"BARREIROS"
+,"NOMBRE":"CASA BRAIS"
+,"id_zona":5
+,"TELEFONO":"982134388"
+,"CP":"27792"
+,"id_categor":3
+,"x":644750.757
+,"y":4822899.398
+,"CARACTERISTICAS":"Agricultura ecolóxica , Aluguer de bicicletas , Aparcadoiro, Berces , Comedor , Dereito a cociña 5,35 € , Fálase francés, Fálase inglés , Lavadora dispoñible-Lavandaría , Parque infantil , Tarefas agropecuarias , Televisión común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":"www.casabrais.com"
+,"id":150
+,"EMAIL":"casabrais@casabrais.com"
+,"IMAGEN":"TR3.JPG"
+,"CAPACIDAD":"10 cuartos"
+,"OBJECTID":148
+,"DIRECCION":"Estrada Xeral, 24  , A Estrada ,  San Pedro de Benquerencia (San pedro)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Non Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.20819631799992,43.5450073980001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR5"
+,"LOCALIDAD":"BARREIROS"
+,"NOMBRE":"CASA DO MERLO"
+,"id_zona":5
+,"TELEFONO":"679154994 / 982134906"
+,"CP":"27793"
+,"id_categor":3
+,"x":646394.329
+,"y":4824062.567
+,"CARACTERISTICAS":"Adaptado a minusválidos , Admite tarxetas de crédito , Aluguer de bicicletas , Aparcadoiro , Berces , Comedor , Fálase francés , Fálase inglés , Grella , Internet , Wifi , Prohibido fumar , Salón de reunións , Televisión común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":"www.casadomerlo.com"
+,"id":151
+,"EMAIL":"hotel@casadomerlo.com"
+,"IMAGEN":"TR5.JPG"
+,"CAPACIDAD":"10 cuartos"
+,"OBJECTID":149
+,"DIRECCION":"Sarxende, 4 , San Miguel de Reinante (San Miguel)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.18754748999993,43.5551549840001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR6"
+,"LOCALIDAD":"BARREIROS"
+,"NOMBRE":"CASA GUILLERMO"
+,"id_zona":5
+,"TELEFONO":"982134150 / 619107198"
+,"CP":"27794"
+,"id_categor":3
+,"x":648092.919
+,"y":4823011.984
+,"CARACTERISTICAS":"Agricultura ecolóxica , Aluguer de bicicletas , Aparcadoiro , Berces , Comedor , Dereito a cociña 5,35 € , Grella , Lavadora dispoñible-Lavandaría , Parque infantil , Tarefas agropecuarias , Televisión común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":"www.casaguillermo.net"
+,"id":152
+,"EMAIL":" "
+,"IMAGEN":"TR6.JPG"
+,"CAPACIDAD":"4 cuartos"
+,"OBJECTID":150
+,"DIRECCION":"Vista Alegre , Reinante (Santiago)"
+,"CATEGORIA":"Grupo-C (Casa de Labranza) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.16681511099995,43.545364905]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR4"
+,"LOCALIDAD":"BARREIROS"
+,"NOMBRE":"CASA ELENA"
+,"id_zona":5
+,"TELEFONO":"982134087 / 982134138"
+,"CP":"27794"
+,"id_categor":3
+,"x":647735.777
+,"y":4822682.579
+,"CARACTERISTICAS":"Adaptado a minusválidos , Aparcadoiro , Berces , Prohibido fumar , Televisión común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":"www.casaelenareinante.com"
+,"id":153
+,"EMAIL":" "
+,"IMAGEN":"TR4.JPG"
+,"CAPACIDAD":"3 cuartos"
+,"OBJECTID":151
+,"DIRECCION":"A Proída, 3 , Reinante (Santiago)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea)- Non Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.17132345599993,43.5424711650001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR154"
+,"LOCALIDAD":"BARREIROS"
+,"NOMBRE":"OS TRES TEIXOS"
+,"id_zona":5
+,"TELEFONO":"982124503 / 646410327"
+,"CP":"27790"
+,"id_categor":3
+,"x":643586.861
+,"y":4824278.378
+,"CARACTERISTICAS":"Admite tarxetas de crédito , Aluguer de bicicletas , Aparcadoiro , Comedor , Internet-Wifi , Lavadora dispoñible-Lavandaría , Salón , Televisión común , Televisor nos cuartos ,  Xardín , Horta."
+,"WEB":"www.ostresteixos.com"
+,"id":154
+,"EMAIL":"ostresteixos@gmail.com"
+,"IMAGEN":"TR154.JPG"
+,"CAPACIDAD":"4 cuartos"
+,"OBJECTID":152
+,"DIRECCION":"Remior, 20 , San Cosme de Barreiros (San Cosme)"
+,"CATEGORIA":"Grupo-B (Casa de Aldea) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.22223193499991,43.5576428950001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR23"
+,"LOCALIDAD":"CERVO"
+,"NOMBRE":"CAMPO DA CRUZ"
+,"id_zona":5
+,"TELEFONO":"982557515"
+,"CP":"27888"
+,"id_categor":3
+,"x":626756.435
+,"y":4836353.631
+,"CARACTERISTICAS":"Adaptado a minusválidos , Admite cans ( consultar ) , Aluguer de bicicletas , Comedor , Grella , Televisión común , Televisor nos cuartos , Xardín , Horta."
+,"WEB":" "
+,"id":155
+,"EMAIL":" "
+,"IMAGEN":"TR23.JPG"
+,"CAPACIDAD":"5 cuartos"
+,"OBJECTID":153
+,"DIRECCION":"Estrada de Sargadelos Vila de Suso Cervo ( Santa María )"
+,"CATEGORIA":"Grupo B ( Casa de Aldea ) Compartido"
+,"APERTURA":"Consultar"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.42769971899992,43.6693789550001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":"TR74"
+,"LOCALIDAD":"NAVIA DE SUARNA"
+,"NOMBRE":"CASA MANGUEIRO"
+,"id_zona":3
+,"TELEFONO":"982365030"
+,"CP":"27650"
+,"id_categor":3
+,"x":669897.94
+,"y":4758242.215
+,"CARACTERISTICAS":"Actividades propias , Comedor , Zonas restrinxidas de fumadores , Xardín , Horta , Salón de estar , Tarefas agropecuarias , Televisión común."
+,"WEB":"www.ancares.info"
+,"id":156
+,"EMAIL":" "
+,"IMAGEN":"TR74.JPG"
+,"CAPACIDAD":"3 cuartos"
+,"OBJECTID":154
+,"DIRECCION":"Folgueiras de Aigas s/n  , Santa María de Rao"
+,"CATEGORIA":"Grupo C ( Casa de Labranza ) - Compartido"
+,"APERTURA":"Aberto todo o ano"
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-6.91703210399993,42.9578775250001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":" "
+,"LOCALIDAD":"Mondoñedo"
+,"NOMBRE":"CASA RURAL FINCA EL REMANSO"
+,"id_zona":0
+,"TELEFONO":"639072769"
+,"CP":"27747"
+,"id_categor":0
+,"x":636478
+,"y":4807002
+,"CARACTERISTICAS":"Distintivo Lugo2."
+,"WEB":" "
+,"id":157
+,"EMAIL":" "
+,"IMAGEN":" "
+,"CAPACIDAD":" "
+,"OBJECTID":155
+,"DIRECCION":"R/ Ferrería II Viloalle"
+,"CATEGORIA":" "
+,"APERTURA":" "
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.31453837299995,43.4034828140001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":" "
+,"LOCALIDAD":"Mondoñedo"
+,"NOMBRE":"CASA DA PENELA"
+,"id_zona":0
+,"TELEFONO":"645971877 / 629829210"
+,"CP":"27752"
+,"id_categor":0
+,"x":634396
+,"y":4812976
+,"CARACTERISTICAS":"Distintivo Lugo2."
+,"WEB":" "
+,"id":158
+,"EMAIL":" "
+,"IMAGEN":" "
+,"CAPACIDAD":" "
+,"OBJECTID":156
+,"DIRECCION":"R/ Chao Doval, 1"
+,"CATEGORIA":" "
+,"APERTURA":" "
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.33876936299993,43.4576285310001]}
+}
+,{
+"json_featuretype":"RuralesG_ampliacion_Project1"
+,"codigo":" "
+,"LOCALIDAD":"Outeiro de Rei"
+,"NOMBRE":"REBOREDA DE ABAIXO"
+,"id_zona":0
+,"TELEFONO":"982390505"
+,"CP":"27155"
+,"id_categor":0
+,"x":607074
+,"y":4778090
+,"CARACTERISTICAS":"Distintivo Lugo2."
+,"WEB":" "
+,"id":159
+,"EMAIL":" "
+,"IMAGEN":" "
+,"CAPACIDAD":" "
+,"OBJECTID":157
+,"DIRECCION":"R/ Francos, 8"
+,"CATEGORIA":" "
+,"APERTURA":" "
+,"json_ogc_wkt_crs":"GEOGCS[\"ETRF89 Lat/Long's, Degrees (essentially, same as LL84)\",DATUM[\"ETRF89\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221009113]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]]"
+,"json_geometry":{"type":"Point","coordinates":[-7.68318629199996,43.147984647]}
+}
+]

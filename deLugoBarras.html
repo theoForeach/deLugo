@@ -1,0 +1,427 @@
+﻿<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=7,IE=9" />
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1,user-scalable=no"/>
+    <title>deLugo</title>
+    <link rel="stylesheet" href="http://serverapi.arcgisonline.com/jsapi/arcgis/3.0/js/dojo/dijit/themes/tundra/tundra.css">
+    <link rel="stylesheet" href="http://serverapi.arcgisonline.com/jsapi/arcgis/3.0/js/esri/dijit/css/Popup.css">
+    <style>
+		html, body { height: 100%; width: 100%; margin: 0; padding: 0; }
+		#map{ margin: 0; padding: 0; }
+
+		/* center the image in the popup */
+		.esriViewPopup .gallery { margin: 0 auto !important; }
+		#leftPane{
+			margin: 5px;
+			padding:2px;
+			background-color:white;
+			color:#3f3f3f;
+			width:20%;
+		}
+		#rightPane{
+			margin: 5px;
+			padding:2px;
+			background-color:white;
+			color:#3f3f3f;
+			width:10%;
+		}
+		#thumbPickerDiv{
+			width: 120px;
+		}
+		.logo-med{
+			display: none;
+		}
+		#gl{
+			border-radius: 100px;
+			border: 2px solid black;
+		}
+		
+    </style>
+    <script>
+      var dojoConfig = { 
+        parseOnLoad: true,
+        packages: [{
+          "name": "extras",
+          "location": location.pathname.replace(/\/[^/]+$/, '') + "/extras"
+        }]
+      };
+    </script>
+    <script src="http://serverapi.arcgisonline.com/jsapi/arcgis/?v=3.0"></script>
+    
+    <script>
+		dojo.require("dijit.layout.BorderContainer");
+		dojo.require("dijit.layout.ContentPane");
+		dojo.require("esri.map");
+		dojo.require("esri.layers.FeatureLayer");
+		dojo.require("esri.dijit.BasemapGallery");
+		dojo.require("esri.dijit.Popup");
+		dojo.require("extras.ClusterLayer");
+		dojo.require("dijit.dijit");
+		dojo.require("dijit.layout.TabContainer");
+		dojo.require("dijit.layout.AccordionContainer");
+		dojo.require("dijit.TitlePane");
+		dojo.require("dijit.form.CheckBox");
+		dojo.require("esri.dijit.Scalebar");
+		var idioma='Gl';
+		var map, maxExtent, basemap, initExtent;
+		function init() {
+			var initExtent = new esri.geometry.Extent({
+				"xmin": -1104935.78,
+				"ymin": 5116465.20,
+				"xmax": -554589.18,
+				"ymax": 5483362.94,
+				"spatialReference":{"wkid": 102100 }
+			});
+			var lods = [
+				  {"level" : 0, "resolution" : 156543.033928, "scale" : 591657527.591555}, 
+				  {"level" : 1, "resolution" : 78271.5169639999, "scale" : 295828763.795777}, 
+				  {"level" : 2, "resolution" : 39135.7584820001, "scale" : 147914381.897889}, 
+				  {"level" : 3, "resolution" : 19567.8792409999, "scale" : 73957190.948944}, 
+				  {"level" : 4, "resolution" : 9783.93962049996, "scale" : 36978595.474472}, 
+				  {"level" : 5, "resolution" : 4891.96981024998, "scale" : 18489297.737236}, 
+				  {"level" : 6, "resolution" : 2445.98490512499, "scale" : 9244648.868618}, 
+				  {"level" : 7, "resolution" : 1222.99245256249, "scale" : 4622324.434309}, 
+				  {"level" : 8, "resolution" : 611.49622628138, "scale" : 2311162.217155}, 
+				  {"level" : 9, "resolution" : 305.748113140558, "scale" : 1155581.108577}, 
+				  {"level" : 10, "resolution" : 152.874056570411, "scale" : 577790.554289}, 
+				  {"level" : 11, "resolution" : 76.4370282850732, "scale" : 288895.277144}/*, 
+				  {"level" : 12, "resolution" : 38.2185141425366, "scale" : 144447.638572}, 
+				  {"level" : 13, "resolution" : 19.1092570712683, "scale" : 72223.819286}, 
+				  {"level" : 14, "resolution" : 9.55462853563415, "scale" : 36111.909643}, 
+				  {"level" : 15, "resolution" : 4.77731426794937, "scale" : 18055.954822}, 
+				  {"level" : 16, "resolution" : 2.38865713397468, "scale" : 9027.977411}, 
+				  {"level" : 17, "resolution" : 1.19432856685505, "scale" : 4513.988705}, 
+				  {"level" : 18, "resolution" : 0.597164283559817, "scale" : 2256.994353}, 
+				  {"level" : 19, "resolution" : 0.298582141647617, "scale" : 1128.497176}*/
+			];
+			var popupOptions = {
+				"markerSymbol": new esri.symbol.SimpleMarkerSymbol("circle", 20, null, new dojo.Color([0, 0, 0, 0.25])),
+				"marginLeft": "20", 
+				"marginTop": "20"
+			};
+			var popup = new esri.dijit.Popup(popupOptions, dojo.create("div"));
+			map = new esri.Map("map", {
+				extent: initExtent,
+				infoWindow: popup,
+				fadeOnZoom: true,
+				force3DTransforms: true,
+				navigationMode: "css-transforms"
+			});
+			var scalebar = new esri.dijit.Scalebar({
+			  map: map,
+			  scalebarUnit:'metric'
+			});
+			var basemap = new esri.layers.ArcGISTiledMapServiceLayer("http://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer");
+			
+			map.addLayer(basemap);
+			
+			provinciaLayer = new esri.layers.ArcGISDynamicMapServiceLayer("http://10.0.2.7/ArcGIS/rest/services/MapasGIS/MuPro/MapServer",{opacity: 0.8});
+			map.addLayer(provinciaLayer);
+			nucleoLayer= new esri.layers.ArcGISDynamicMapServiceLayer("http://10.0.2.7/ArcGIS/rest/services/MapasGIS/Nucleos/MapServer");
+			map.addLayer(nucleoLayer);
+			reservasLayer = new esri.layers.ArcGISDynamicMapServiceLayer("http://10.0.2.7/ArcGIS/rest/services/MapasGIS/Reservas/MapServer",{opacity: 0.8});
+			map.addLayer(reservasLayer);
+			cartoLayer = new esri.layers.ArcGISDynamicMapServiceLayer("http://10.0.2.7/ArcGIS/rest/services/MapasGIS/Carto/MapServer",{opacity: 0.8});
+			cartoLayer.hide();
+			map.addLayer(cartoLayer);
+			
+			content="<p><b>Enderezo:</b> {DIRECCION}</p>";
+			content+="<p><b>Lonxitude:</b> {KM}</p>";
+			content+='<p><b>Web:</b> <a href="http://{WEB}" target="_blank">{WEB}</a></p>';
+			content+="<p><b>Información:</b> {INFORMACION}</p>";
+			content+='<p><b>Descarga:</b> <a href="{ZIP}" target="_blank">Descargar</a></p>';
+			//content="${*}";
+			infoTemplate=new esri.InfoTemplate("${NOMBRE}",content);
+			infoTemplate=new esri.dijit.PopupTemplate({
+				"title": "{NOMBRE}",
+				"description": content
+			});
+			map.infoWindow.resize(400,300);
+			
+			senderismoLayer= new esri.layers.FeatureLayer("http://win7-64/ArcGIS/rest/services/MapasGIS/SenderismoC/MapServer/0",{mode:esri.layers.FeatureLayer.MODE_ONDEMAND,outFields:["*"],infoTemplate:infoTemplate});
+			senderismoLayer.hide();
+			
+			map.addLayer(senderismoLayer);
+			dojo.connect(map, "onLoad", function() {
+				// handle resize of the browser
+				dojo.connect(dijit.byId("map"), "resize", map, map.resize);
+				// hide the popup's ZoomTo link as it doesn't make sense for cluster features
+				dojo.style(dojo.query("a.action.zoomTo")[0], "display", "none");
+
+				// get restaurantes
+				var restaurantes = esri.request({
+					"url": "data/restaurantes.json", 
+					"handleAs": "json"
+				});
+				restaurantes.then(addClusterRestaurantes, error);
+				// get casas rurales
+				var casas = esri.request({
+					"url": "data/rurales"+idioma+".json", 
+					"handleAs": "json"
+				});
+				casas.then(addClusterCasas, error);
+				document.getElementById('menuContido').style.display='';
+			});
+			createBasemapGallery();
+		}
+		//crease unha galería de mapas base
+		function createBasemapGallery(){
+			var basemaps=[];
+			var callejero= new esri.dijit.BasemapLayer({url:"http://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer"});
+			var satelite= new esri.dijit.BasemapLayer({url:"http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer"});
+			var basemapCallejero= new esri.dijit.Basemap({
+				layers: [callejero],
+				title: "Callejero",
+				thumbnailUrl: "images/callejero.jpg"
+			});
+			var basemapSatelite= new esri.dijit.Basemap({
+				layers: [satelite],
+				title: "Satélite",
+				thumbnailUrl: "images/satelite.jpg"
+			});
+			basemaps.push(basemapSatelite);
+			basemaps.push(basemapCallejero);
+			/*var basemapGallery= new esri.dijit.BasemapGallery({map:map,showArcGISBasemaps:false},"thumbPickerDiv");
+			basemapGallery.basemaps=basemaps;
+			basemapGallery.startup();*/
+			var basemapGallery = new esri.dijit.BasemapGallery({
+			  showArcGISBasemaps: false,
+			  map: map,
+			  basemaps: basemaps
+			}, "basemapGallery");
+			
+			
+			
+			basemapGallery.startup();
+			
+			
+			dojo.connect(basemapGallery, "onError", function(msg) {console.log(msg)});
+		}
+		//engadir cluster de casas rurales
+		function addClusterCasas(resp) {
+			var layerInfo = {};
+			var wgs = new esri.SpatialReference({ "wkid": 4326 });
+			layerInfo.data = dojo.map(resp, function(p) {
+				var latlng = new esri.geometry.Point(p.json_geometry.coordinates[0], p.json_geometry.coordinates[1], wgs);
+				var webMercator = esri.geometry.geographicToWebMercator(latlng);
+				var attributes = {
+					"NOMBRE": p.NOMBRE,
+					"DIRECCION": p.DIRECCION,
+					"LOCALIDAD": p.LOCALIDAD,
+					"APERTURA": p.APERTURA,
+					"CAPACIDAD": p.CAPACIDAD,
+					"CARACTERISTICAS": p.CARACTERISTICAS,
+					"WEB": p.WEB,
+					"IMAGEN": p.IMAGEN,
+					"CODIGO": p.codigo
+				}; 
+				return { "x": webMercator.x, "y": webMercator.y, "attributes": attributes };
+			});
+			content="<p><b>Nome:</b> {NOMBRE}</p>";
+			content+="<p><b>Enderezo:</b> {DIRECCION}</p>";
+			content+="<p><b>Localidade:</b> {LOCALIDAD}</p>";
+			content+="<p><b>Capacidade:</b> {CAPACIDAD}</p>";
+			content+="<p><b>Apertura:</b> {APERTURA}</p>";
+			content+="<p><b>Características:</b> {CARACTERISTICAS}</p>";
+			content+='<p><b>Web:</b> <a href="http://{WEB}" target="_blank">{WEB}</a></p>';
+			content+='<p><img src="images/CR/{IMAGEN}" alt="{codigo}" width="250px" heigth="250px" /></p>';
+			// popupTemplate to work with attributes specific to this dataset
+			var popupTemplate = esri.dijit.PopupTemplate({
+				"title": "",
+				"description": content
+			});
+
+			// cluster layer that uses OpenLayers style clustering
+			casasLayer = new extras.ClusterLayer({
+				"data": layerInfo.data,
+				"distance": 100,
+				"id": "clusterCasas", 
+				"labelColor": "#fff",
+				"labelOffset": 5,
+				"resolution": map.extent.getWidth() / map.width,
+				"singleColor": "#888",
+				"singleTemplate": popupTemplate
+			});
+
+			casasLayer.setRenderer(simbolos('cr'));
+			casasLayer.hide();
+			map.addLayer(casasLayer);
+
+			// close the info window when the map is clicked
+			// dojo.connect(map, "onClick", cleanUp);
+			// close the info window when esc is pressed
+			dojo.connect(map, "onKeyDown", function(e) {
+				if ( e.keyCode == 27 ) { 
+					cleanUp();
+				}
+			});
+		}
+		//engadir cluster de restaurantes
+		function addClusterRestaurantes(resp) {
+			var layerInfo = {};
+			var wgs = new esri.SpatialReference({ "wkid": 4326 });
+			layerInfo.data = dojo.map(resp, function(p) {
+				var latlng = new esri.geometry.Point(p.json_geometry.coordinates[0], p.json_geometry.coordinates[1], wgs);
+				var webMercator = esri.geometry.geographicToWebMercator(latlng);
+				var attributes = {
+					"NOMBRE": p.NOMBRE, 
+					"DIRECCION": p.DIRECCION
+				}; 
+				return { "x": webMercator.x, "y": webMercator.y, "attributes": attributes };
+			});
+
+			// popupTemplate to work with attributes specific to this dataset
+			var popupTemplate = esri.dijit.PopupTemplate({
+				"title": "",
+				"fieldInfos": [
+				{ "fieldName": "NOMBRE", "label":"Nome:", visible: true },
+				{ "fieldName": "DIRECCION", "label":"Enderezo:", visible: true }
+				]
+			});
+
+			// cluster layer that uses OpenLayers style clustering
+			restauranteLayer = new extras.ClusterLayer({
+				"data": layerInfo.data,
+				"distance": 100,
+				"id": "clusterRestaurante", 
+				"labelColor": "#fff",
+				"labelOffset": 1,
+				"resolution": map.extent.getWidth() / map.width,
+				"singleColor": "#888",
+				"singleTemplate": popupTemplate
+			});
+
+			restauranteLayer.setRenderer(simbolos('Restaurant'));
+			restauranteLayer.hide();
+			map.addLayer(restauranteLayer);
+
+			// close the info window when the map is clicked
+			// dojo.connect(map, "onClick", cleanUp);
+			// close the info window when esc is pressed
+			dojo.connect(map, "onKeyDown", function(e) {
+				if ( e.keyCode == 27 ) { 
+					cleanUp();
+				}
+			});
+		}
+
+		function cleanUp() {
+			map.infoWindow.hide();
+			clusterLayer.clearSingles();
+		}
+
+		function error(err) {
+			console.log("something failed: ", err);
+		}
+
+		// show cluster extents 
+		function showExtents() {
+			var extents = new esri.layers.GraphicsLayer();
+			var sym = new esri.symbol.SimpleFillSymbol().setColor(new dojo.Color([205,193,197,0.5]));
+
+			dojo.forEach(clusterLayer._clusters, function(c) {
+				var e = c.attributes.extent;
+				extents.add(new esri.Graphic(new esri.geometry.Extent(e[0], e[1], e[2], e[3]), sym));
+			}, this);
+			map.addLayer(extents, 0);
+			console.log("added extents");
+		}
+		//Personalización da simboloxía dependendo da capa
+		function simbolos(nome){
+			var defaultSym = new esri.symbol.SimpleMarkerSymbol().setSize(4);
+			var renderer = new esri.renderer.ClassBreaksRenderer(
+				defaultSym, 
+				"clusterCount"
+			);
+			var blue = new esri.symbol.PictureMarkerSymbol("images/"+nome+".png", 32, 32).setOffset(0, 15);
+			var green = new esri.symbol.PictureMarkerSymbol("images/"+nome+"G.png", 64, 64).setOffset(0, 15);
+			var red = new esri.symbol.PictureMarkerSymbol("http://static.arcgis.com/images/Symbols/Shapes/RedPin1LargeB.png", 72, 72).setOffset(0, 10);
+			renderer.addBreak(0, 2, blue);
+			renderer.addBreak(2, 200, green);
+			renderer.addBreak(200, 1001, red);
+			return renderer;
+		}
+		//fai visible ou oculta unha capa determinada
+		function toggleLayer(val){
+			switch (val.name){
+				case 'cr':
+					casasLayer.visible ? casasLayer.hide() : casasLayer.show();
+					break;
+				case 'divAdmin':
+					provinciaLayer.visible ? provinciaLayer.hide() : provinciaLayer.show();
+					break;
+				case 'restaurante':
+					restauranteLayer.visible ? restauranteLayer.hide() : restauranteLayer.show();
+					break;
+				case 'RS':
+					senderismoLayer.visible ? senderismoLayer.hide() : senderismoLayer.show();
+					break;
+				case 'reservas':
+					reservasLayer.visible ? reservasLayer.hide() : reservasLayer.show();
+					break;
+				case 'cartociudad':
+					cartoLayer.visible ? cartoLayer.hide() : cartoLayer.show();
+					break;
+			}
+		}
+	  dojo.ready(init);
+    </script>
+</head>
+  
+<body class="tundra">
+
+	<div data-dojo-type="dijit.layout.BorderContainer" data-dojo-props="design:'headline',gutters:false" style="width: 100%; height: 100%; margin: 0;">
+		<div id="leftPane" dojotype="dijit.layout.ContentPane" region="left">
+			<div dojotype="dijit.layout.AccordionContainer" >
+				<div dojotype="dijit.layout.AccordionPane" title = "Aloxamento e actividades">
+					<p>
+						<img src="images/cr.png" width="32px" height="32px" />
+						<label for="cr">Casas Rurais</label>
+						<input dojotype="dijit.form.CheckBox" name="cr" onChange="toggleLayer(this);"/>
+					</p>
+					<p>
+						<img src="images/Restaurant.png" width="32px" height="32px" />
+						<label for="restaurante">Restaurantes</label>
+						<input dojotype="dijit.form.CheckBox" name="restaurante" onChange="toggleLayer(this);"/>
+					</p>
+				</div>
+				<div dojotype="dijit.layout.AccordionPane" title = "Para camiñar">
+					<p>
+						<label for="RS">Rutas de sendeirismo</label>
+						<input dojotype="dijit.form.CheckBox" name="RS" onChange="toggleLayer(this);"/>
+					</p>
+				</div>
+				<div dojotype="dijit.layout.AccordionPane" title = "Mapas varios">
+					<p>
+						<label for="divAdmin">Divisións administrativas</label>
+						<input checked="checked" dojotype="dijit.form.CheckBox" name="divAdmin" onChange="toggleLayer(this);" />
+					</p>
+					<p>
+						<label for="reservas">Reservas da biosfera</label>
+						<input checked="checked" dojotype="dijit.form.CheckBox" name="reservas" onChange="toggleLayer(this);" />
+					</p>
+					<p>
+						<label for="cartociudad">Cartociudad</label>
+						<input dojotype="dijit.form.CheckBox" name="cartociudad" onChange="toggleLayer(this);" />
+					</p>
+				</div>
+			</div>
+		</div>
+		<div id="rightPane" dojotype="dijit.layout.ContentPane" region="right">
+			<div dojotype="dijit.layout.AccordionContainer" >
+				<div dojotype="dijit.layout.AccordionPane" title = "Idioma">
+					<img src="images/gl.png" alt="gl" id="gl" />
+					<a href="deLugo_es.html"title="Cambiar el idioma restablecerá el mapa"><img src="images/es.png" alt="es" id="es" /></a>
+				</div>
+				<div dojotype="dijit.layout.AccordionPane" title = "Mapas base">
+					<div id="basemapGallery" ></div>
+				</div>
+			</div>
+		</div>
+		<div id="map" data-dojo-type="dijit.layout.ContentPane" data-dojo-props="region:'center'">
+		</div>
+	</div>
+</body>
+</html>
